@@ -1,0 +1,16 @@
+spring:
+  main:
+    banner-mode: "off"
+
+application:
+    access-tokens: 
+      - 
+        name: identity-01
+        token: 1234567890-1234567890
+      - 
+        name: identity-02
+        token: azertyuiop-azertyuiop
+    
+
+server:
+   port: 34521
