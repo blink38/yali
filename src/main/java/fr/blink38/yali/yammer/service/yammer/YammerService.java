@@ -7,13 +7,15 @@ import java.util.Optional;
 
 import javax.annotation.PostConstruct;
 
-import fr.blink38.yali.yammer.service.RestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.GenericTypeResolver;
 import org.springframework.http.HttpMethod;
 import org.springframework.stereotype.Service;
+import org.springframework.util.MultiValueMap;
 import org.springframework.web.reactive.function.client.WebClient.ResponseSpec;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
+
+import fr.blink38.yali.service.RestService;
 
 @Service
 public abstract class YammerService<T> implements RestService<T> {
@@ -24,7 +26,7 @@ public abstract class YammerService<T> implements RestService<T> {
     Class<T> typeParameterClass;
 
     public abstract String getUri(List<String> params);
-
+    public abstract MultiValueMap<String,String> getQueryParameters();
 
     @SuppressWarnings("unchecked")
     @PostConstruct 
@@ -32,8 +34,6 @@ public abstract class YammerService<T> implements RestService<T> {
         this.typeParameterClass = (Class<T>) GenericTypeResolver.resolveTypeArgument(getClass(), YammerService.class);
         
     }
-
- 
 
     @Override
     public Collection<T> queryAll(List<String> params, String accessToken) {
@@ -45,7 +45,7 @@ public abstract class YammerService<T> implements RestService<T> {
     private Collection<T> queryAll(Class<T> entity, List<String> params, String accessToken) {
 
         try {
-            ResponseSpec response = client.query(this.getUri(params), HttpMethod.GET, accessToken);
+            ResponseSpec response = client.query(this.getUri(params), HttpMethod.GET, this.getQueryParameters(), accessToken);
             return response.bodyToFlux(entity).collectList().block();
 
         } catch (WebClientResponseException ex) {
@@ -65,7 +65,7 @@ public abstract class YammerService<T> implements RestService<T> {
     private Optional<T> query(Class<T> entity, List<String> params, String accessToken) {
 
         try {
-            ResponseSpec response = client.query(this.getUri(params), HttpMethod.GET, accessToken);
+            ResponseSpec response = client.query(this.getUri(params), HttpMethod.GET, this.getQueryParameters(), accessToken);
             return Optional.of(
                     response.bodyToMono(entity).block());
 

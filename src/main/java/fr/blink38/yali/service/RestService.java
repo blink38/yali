@@ -1,4 +1,4 @@
-package fr.blink38.yali.yammer.service;
+package fr.blink38.yali.service;
 
 import java.util.Collection;
 import java.util.List;

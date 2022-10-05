@@ -6,13 +6,13 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 
-import fr.blink38.yali.yammer.entity.Group;
+import fr.blink38.yali.yammer.entity.MessagesInGroup;
 import fr.blink38.yali.yammer.service.yammer.YammerService;
 
 @Service
-public class GroupsService extends YammerService<Group> {
+public class MessagesInGroupService extends YammerService<MessagesInGroup> {
 
-    private final String URI = "/groups/for_user/%s.json";
+    private final String URI = "/messages/in_group/%s.json";
 
     @Override
     public String getUri(List<String> params) {
@@ -21,7 +21,10 @@ public class GroupsService extends YammerService<Group> {
 
     @Override
     public MultiValueMap<String, String> getQueryParameters() {
-        return new LinkedMultiValueMap<String,String>();
+        return new LinkedMultiValueMap<String,String>(1){{
+            add("threaded", "true");
+        }};
     }
+
 
 }

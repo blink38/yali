@@ -2,9 +2,12 @@ package fr.blink38.yali.yammer.service;
 
 import java.util.List;
 
+import org.springframework.stereotype.Service;
+import org.springframework.util.LinkedMultiValueMap;
+import org.springframework.util.MultiValueMap;
+
 import fr.blink38.yali.yammer.entity.User;
 import fr.blink38.yali.yammer.service.yammer.YammerService;
-import org.springframework.stereotype.Service;
 
 @Service
 public class CurrentUserService extends YammerService<User> {
@@ -14,5 +17,10 @@ public class CurrentUserService extends YammerService<User> {
     @Override
     public String getUri(List<String> params){
         return this.URI;
+    }
+
+    @Override
+    public MultiValueMap<String, String> getQueryParameters() {
+        return new LinkedMultiValueMap<String,String>();
     }
 }

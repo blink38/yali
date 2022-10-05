@@ -8,6 +8,7 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
+import org.springframework.util.MultiValueMap;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.reactive.function.client.WebClient.RequestBodySpec;
 import org.springframework.web.reactive.function.client.WebClient.RequestBodyUriSpec;
@@ -28,11 +29,12 @@ public class YammerWebClient {
                 .build();
     }
 
-    public ResponseSpec query(String uri, HttpMethod method, String accessToken) throws WebClientResponseException {
+    public ResponseSpec query(String uri, HttpMethod method, MultiValueMap<String,String> queryParams, String accessToken) throws WebClientResponseException {
         
         RequestBodyUriSpec uriSpec = client.method(method);
 
-        RequestBodySpec bodySpec = uriSpec.uri(uri);
+        RequestBodySpec bodySpec = uriSpec.uri(
+            uriBuilder -> uriBuilder.path(uri).queryParams(queryParams).build());
 
         RequestHeadersSpec<?> headersSpec = bodySpec.bodyValue("");
 
