@@ -9,14 +9,16 @@ public class Message {
     String id;
     String sender_id;
 
-    // Body body;
+    Body body;
 
     // Like liked_by;
 
-    // @Data
-    // public class Body {
-    //     String plain;
-    // }
+    String url;
+    
+    @Data
+    public class Body {
+        String plain;
+    }
 
     // @Data
     // public class Like {

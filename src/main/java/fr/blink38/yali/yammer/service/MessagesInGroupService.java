@@ -1,6 +1,7 @@
 package fr.blink38.yali.yammer.service;
 
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.stereotype.Service;
 import org.springframework.util.LinkedMultiValueMap;
@@ -20,7 +21,7 @@ public class MessagesInGroupService extends YammerService<MessagesInGroup> {
     }
 
     @Override
-    public MultiValueMap<String, String> getQueryParameters() {
+    public MultiValueMap<String, String> getQueryParameters(Map<String,String> params) {
         return new LinkedMultiValueMap<String,String>(1){{
             add("threaded", "true");
         }};

@@ -7,22 +7,29 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 
-import fr.blink38.yali.yammer.entity.Group;
 import fr.blink38.yali.yammer.service.yammer.YammerService;
 
 @Service
-public class GroupsService extends YammerService<Group> {
+public class MessageLikeService extends YammerService<String> {
 
-    private final String URI = "/groups/for_user/%s.json";
+    private final String URI = "/messages/liked_by/current.json";
+    // ?message_id=1943383973257216";
 
     @Override
     public String getUri(List<String> params) {
-        return String.format(this.URI, params.get(0));
+        return this.URI;
     }
 
     @Override
     public MultiValueMap<String, String> getQueryParameters(Map<String,String> params) {
-        return new LinkedMultiValueMap<String,String>();
+
+        MultiValueMap<String,String> map =  new LinkedMultiValueMap<String,String>();
+        
+        params.keySet().stream().forEach(key -> {
+            map.add(key, params.get(key));
+        });
+     
+        return map;
     }
 
 }
