@@ -66,9 +66,13 @@ public class YammerLikeService implements LikeService {
 
                 for (Message message : messages.getMessages()) {
 
+                    try {
                     log.info(String.format("MESSAGE : %s - %s", message.getId(),
-                            StringUtils.substring(StringUtils.split(message.getBody().getPlain(), "\n")[0], 0,
-                                    40)));
+                            StringUtils.substring(StringUtils.split(StringUtils.defaultIfBlank(message.getBody().getPlain()," "), "\n")[0], 0,
+                                    60)));
+                    } catch (Exception e){
+                        log.error(e);
+                    }
 
                     likeService.post(Collections.emptyList(),
                             Map.of("message_id", message.getId()), token.getToken());
@@ -77,13 +81,13 @@ public class YammerLikeService implements LikeService {
                 }
 
             } catch (WebClientResponseException ex) {
-
+                log.error(ex);
             }
 
         }
         return 0;
     }
-    
+
 
     public Collection<Group> getGroupsForUser(User user, AccessToken token) {
 
