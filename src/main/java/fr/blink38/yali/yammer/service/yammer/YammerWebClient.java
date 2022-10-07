@@ -9,6 +9,7 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
 import org.springframework.util.MultiValueMap;
+import org.springframework.web.reactive.function.client.ExchangeStrategies;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.reactive.function.client.WebClient.RequestBodySpec;
 import org.springframework.web.reactive.function.client.WebClient.RequestBodyUriSpec;
@@ -24,17 +25,23 @@ public class YammerWebClient {
     @PostConstruct
     public void init() {
 
+        // avoid DataBufferLimitException : https://www.amitph.com/spring-webclient-large-file-download/
         this.client = WebClient.builder()
                 .baseUrl("https://www.yammer.com/api/v1")
+                .exchangeStrategies(ExchangeStrategies.builder()
+                        .codecs(configurer -> configurer.defaultCodecs()
+                                .maxInMemorySize(4 * 1024 * 1024))
+                        .build())
                 .build();
     }
 
-    public ResponseSpec query(String uri, HttpMethod method, MultiValueMap<String,String> queryParams, String accessToken) throws WebClientResponseException {
-        
+    public ResponseSpec query(String uri, HttpMethod method, MultiValueMap<String, String> queryParams,
+            String accessToken) throws WebClientResponseException {
+
         RequestBodyUriSpec uriSpec = client.method(method);
 
         RequestBodySpec bodySpec = uriSpec.uri(
-            uriBuilder -> uriBuilder.path(uri).queryParams(queryParams).build());
+                uriBuilder -> uriBuilder.path(uri).queryParams(queryParams).build());
 
         RequestHeadersSpec<?> headersSpec = bodySpec.bodyValue("");
 
@@ -45,15 +52,14 @@ public class YammerWebClient {
                 .acceptCharset(StandardCharsets.UTF_8)
                 .retrieve();
 
-
         return headersSpec.retrieve();
-                    // .onStatus(
-                    // HttpStatus.UNAUTHORIZED::equals, resp -> {
-                    // System.out.println("NON AUTORISE");
-                    // System.out.println(resp.bodyToMono(String.class).block()); })
+        // .onStatus(
+        // HttpStatus.UNAUTHORIZED::equals, resp -> {
+        // System.out.println("NON AUTORISE");
+        // System.out.println(resp.bodyToMono(String.class).block()); })
 
-                    // .bodyToMono(classz);
-                // return response;
+        // .bodyToMono(classz);
+        // return response;
     }
 
     // public void getCurrentUser(String accessToken) {
