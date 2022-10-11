@@ -4,7 +4,6 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
-import java.util.Optional;
 
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,6 +15,7 @@ import fr.blink38.yali.entity.Community;
 import fr.blink38.yali.service.LikeService;
 import fr.blink38.yali.yammer.entity.Group;
 import fr.blink38.yali.yammer.entity.Message;
+import fr.blink38.yali.yammer.entity.MessageLikedBy;
 import fr.blink38.yali.yammer.entity.MessagesInGroup;
 import fr.blink38.yali.yammer.entity.User;
 import lombok.extern.log4j.Log4j2;
@@ -35,6 +35,9 @@ public class YammerLikeService implements LikeService {
 
     @Autowired
     MessageLikeService likeService;
+
+    @Autowired
+    MessageLikedByService likedByService;
 
     @Override
     public int like(List<Community> communities, AccessToken token) {
@@ -65,6 +68,10 @@ public class YammerLikeService implements LikeService {
                         token.getToken());
 
                 for (Message message : messages.getMessages()) {
+
+                    MessageLikedBy liked = likedByService.query(List.of(message.getId()), Collections.emptyMap(), token.getToken());
+
+                    log.info("liked by count " + liked.getTotal_count());
 
                     try {
                     log.info(String.format("MESSAGE : %s - %s", message.getId(),

@@ -2,11 +2,8 @@ package fr.blink38.yali.yammer.entity;
 
 import java.util.List;
 
-import lombok.Data;
-
 public class MessagesInGroup {
 
-    
     List<Message> messages;
 
     public List<Message> getMessages(){

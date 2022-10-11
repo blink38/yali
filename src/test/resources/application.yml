@@ -1,0 +1,20 @@
+spring:
+  main:
+    banner-mode: "off"
+
+application:
+    access-tokens: 
+      - 
+        name: testuser
+        token: token
+    
+    communities:
+      -
+        name: community-01
+        id: 1234567890
+      - 
+        name: community-02
+        id: 2345678901
+
+server:
+   port: 34521

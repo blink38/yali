@@ -1,0 +1,2309 @@
+{
+    "threaded_extended": {},
+    "messages": [
+        {
+            "id": 1908298141851648,
+            "sender_id": 1659945903,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2022/09/09 09: 07: 12 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https: //www.yammer.com/api/v1/messages/1908298141851648",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1908298141851648",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Bonjour à tous,\n\nLa phase d’étude du projet ITIL s’est terminée.\nAprès avoir longuement étudié les différentes solutions présentes sur le marché, notre choix s'est porté sur Matrix42. En effet, il satisfait tous les critères qui avaient été définis pour le choix du nouvel outil. \n\nNous vous le présenterons très prochainement lors d’une réunion durant laquelle nous tâcherons de répondre à vos éventuelles questions.",
+                "plain": "Bonjour à tous,\n\nLa phase d’étude du projet ITIL s’est terminée.\nAprès avoir longuement étudié les différentes solutions présentes sur le marché, notre choix s'est porté sur Matrix42. En effet, il satisfait tous les critères qui avaient été définis pour le choix du nouvel outil.\n\nNous vous le présenterons très prochainement lors d’une réunion durant laquelle nous tâcherons de répondre à vos éventuelles questions.",
+                "rich": "Bonjour à tous,\u003cbr\u003e\u003cbr\u003eLa phase d’étude du projet ITIL s’est terminée.\u003cbr\u003eAprès avoir longuement étudié les différentes solutions présentes sur le marché, notre choix s'est porté sur Matrix42. En effet, il satisfait tous les critères qui avaient été définis pour le choix du nouvel outil. \u003cbr\u003e\u003cbr\u003eNous vous le présenterons très prochainement lors d’une réunion durant laquelle nous tâcherons de répondre à vos éventuelles questions."
+            },
+            "thread_id": 1908298141851648,
+            "client_type": "The new Yammer",
+            "client_url": "https://beta.yammer.com",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 10,
+                "names": [
+                    {
+                        "full_name": "DEBARNOT Rémy",
+                        "permalink": "remydebarnot",
+                        "user_id": 1489847153,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "BASSET MYLENE",
+                        "permalink": "mylenebasset",
+                        "user_id": 1498911206,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Bonjour à tous,\n\nLa phase d’étude du projet ITIL s’est terminée.\nAprès avoir longuement étudié les différentes solutions présentes sur le marché, notre choix s'est porté sur Matrix42. En effet, il satisfait tous les critères qui avaient été définis pour le choix du nouvel outil.\n\nNous vous le présenterons très prochainement lors d’une réunion durant laquelle nous tâcherons de répondre à vos éventuelles questions.",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1802607848505344,
+            "sender_id": 1649005135,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2022/06/28 11:13:20 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1802607848505344",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1802607848505344",
+            "group_id": 21883920384,
+            "body": {
+                "urls": [
+                    "https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie"
+                ],
+                "parsed": "Le MOOC \"L'atelier RGPD\" de la CNIL est de retour\n\nD'une durée totale de 5 heures, cette formation permet de sensibiliser les professionnels à la protection des données et d'accompagner leur mise en conformité.\n\nhttps://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie",
+                "plain": "Le MOOC \"L'atelier RGPD\" de la CNIL est de retour\n\nD'une durée totale de 5 heures, cette formation permet de sensibiliser les professionnels à la protection des données et d'accompagner leur mise en conformité.\n\nhttps://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie",
+                "rich": "Le MOOC \"L'atelier RGPD\" de la CNIL est de retour\u003cbr\u003e\u003cbr\u003eD'une durée totale de 5 heures, cette formation permet de sensibiliser les professionnels à la protection des données et d'accompagner leur mise en conformité.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"linkified\" href=\"https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie\" title=\"https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttps://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans…\u003c/a\u003e"
+            },
+            "thread_id": 1802607848505344,
+            "client_type": "The new Yammer",
+            "client_url": "https://beta.yammer.com",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "id": 5411164903112704,
+                    "fake_ogo_ymodule": true,
+                    "type": "ymodule",
+                    "record_id": 360855705460736,
+                    "name": "Le MOOC de la CNIL est de retour dans une nouvelle version enrichie",
+                    "description": "Cet outil de formation gratuit est accessible à tous. Une fois son compte créé, l’utilisateur progresse à son rythme. Une attestation de suivi par module sera délivrée dans le Mooc à tout participant ayant parcouru la totalité des contenus et répondu correctement à 80 % des questions de chaque module.",
+                    "network_id": 82069,
+                    "web_url": "https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie",
+                    "thumbnail_url": "https://thumbnails.yammer.com/preview?signature=AaGpupbuMxerHxEZExmuF39g1u5wqxiWN9oISYvHO5Y%3D\u0026url=https%3A%2F%2Fwww.cnil.fr%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmooc_atelier-rgpd.png",
+                    "object_type": "page",
+                    "object_name": "www.cnil.fr",
+                    "host_url": "www.cnil.fr",
+                    "inline_url": "blank.html",
+                    "inline_html": "\u003cdiv class=\"yj-open-graph-object ymodule-instance\" data-ymodule-instance=\"5411164903112704\"\u003e\n  \u003cdiv class=\"ymodule-instance-5411164903112704-container-1 yj-open-graph-image yj-open-graph-contents\"\u003e\n    \u003cdiv class=\"yj-thumbnail\"\u003e\n      \u003ca href=\"https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\n        \u003cimg src=\"https://thumbnails.yammer.com/preview?signature=AaGpupbuMxerHxEZExmuF39g1u5wqxiWN9oISYvHO5Y%3D\u0026amp;url=https%3A%2F%2Fwww.cnil.fr%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmooc_atelier-rgpd.png\" alt=\"\" class=\"yj-icon\" /\u003e\n      \u003c/a\u003e\n    \u003c/div\u003e\n    \u003ch5 class=\"yj-title\"\u003e\n      \u003cspan\u003e\u003ca href=\"https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie\" target=\"_blank\" rel=\"nofollow noreferrer\"\n          \u003e\n        Le MOOC de la CNIL est de retour dans une nouvelle version enrichie\n      \u003c/a\u003e\u003c/span\u003e\n    \u003c/h5\u003e\n    \u003ch6 class=\"yj-subtitle\"\u003e\n      \u003cspan\u003ewww.cnil.fr\u003c/span\u003e\n    \u003c/h6\u003e\n    \u003cp class=\"yj-description\"\u003e\n      \u003cspan\u003eCet outil de formation gratuit est accessible à tous. Une fois son compte créé, l’utilisateur progresse à son rythme. Une attestation de suivi par module sera délivrée dans le Mooc à tout participant ayant parcouru la totalité des contenus et répondu correctement à 80 % des questions de chaque module.\u003c/span\u003e\n    \u003c/p\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"yj-actions-container\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+                    "ymodule": {
+                        "web_app_id": "open_graph_object",
+                        "app_id": "blank",
+                        "icon_url": "blank.gif"
+                    }
+                }
+            ],
+            "liked_by": {
+                "count": 8,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "BASSET MYLENE",
+                        "permalink": "mylenebasset",
+                        "user_id": 1498911206,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Le MOOC \"L'atelier RGPD\" de la CNIL est de retour\n\nD'une durée totale de 5 heures, cette formation permet de sensibiliser les professionnels à la protection des données et d'accompagner leur mise en conformité.\n\nhttps://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1692235902795776,
+            "sender_id": 1652755905,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2022/04/13 07:48:39 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1692235902795776",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1692235902795776",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "",
+                "plain": " https://inside.ensam.eu/content/%C3%A9quipe-s%C3%BBret%C3%A9-informatique%E2%80%AF-vous-prot%C3%A9ger-et-prot%C3%A9ger-l%E2%80%99%C3%A9tablissement%C2%A0%C2%A0",
+                "rich": ""
+            },
+            "thread_id": 1692235902795776,
+            "client_type": "The new Yammer",
+            "client_url": "https://beta.yammer.com",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "",
+            "notified_user_ids": [
+                1652755934,
+                1652755941,
+                1652755903
+            ],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "type": "praise",
+                    "id": 1692235902795776,
+                    "network_id": 82069,
+                    "name": "",
+                    "full_name": "",
+                    "description": "ARGOT praised VANHULLE, CLAISER and LASSERRE.",
+                    "icon": "thumbsup",
+                    "comment": "A l\u0026#39;honneur dans INSIDE !!\nÉquipe sûreté informatique : vous protéger et protéger l’établissement   | Le Webzine d\u0026#39;Arts et Métiers (ensam.eu)\u0026lt;https://inside.ensam.eu/content/%C3%A9quipe-s%C3%BBret%C3%A9-informatique%E2%80%AF-vous-prot%C3%A9ger-et-prot%C3%A9ger-l%E2%80%99%C3%A9tablissement%C2%A0%C2%A0\u0026gt;\nFélicitations !! ",
+                    "web_url": "https://www.yammer.com/ensam.eu/messages/1692235902795776",
+                    "url": "https://www.yammer.com/api/v1/messages/1692235902795776",
+                    "praised_user_ids": [
+                        1652755934,
+                        1652755941,
+                        1652755903
+                    ]
+                },
+                {
+                    "id": 5300248073076736,
+                    "fake_ogo_ymodule": true,
+                    "type": "ymodule",
+                    "record_id": 360801217028096,
+                    "name": "https://inside.ensam.eu/content/%C3%A9quipe-s%C3%BBret%C3%A9-informatique%E2%80%AF-vous-prot%C3%A9ger-et-prot%C3%A9ger-l%E2%80%99%C3%A9tablissement%C2%A0%C2%A0",
+                    "description": null,
+                    "network_id": 82069,
+                    "web_url": "https://inside.ensam.eu/content/%C3%A9quipe-s%C3%BBret%C3%A9-informatique%E2%80%AF-vous-prot%C3%A9ger-et-prot%C3%A9ger-l%E2%80%99%C3%A9tablissement%C2%A0%C2%A0",
+                    "thumbnail_url": null,
+                    "object_type": "page",
+                    "object_name": "inside.ensam.eu",
+                    "host_url": null,
+                    "inline_url": "blank.html",
+                    "inline_html": "\u003cdiv class=\"yj-open-graph-object ymodule-instance\" data-ymodule-instance=\"5300248073076736\"\u003e\n  \u003cdiv class=\"ymodule-instance-5300248073076736-container-1 yj-open-graph-no-image yj-open-graph-contents\"\u003e\n    \u003ch5 class=\"yj-title\"\u003e\n      \u003cspan\u003e\u003ca href=\"https://inside.ensam.eu/content/%C3%A9quipe-s%C3%BBret%C3%A9-informatique%E2%80%AF-vous-prot%C3%A9ger-et-prot%C3%A9ger-l%E2%80%99%C3%A9tablissement%C2%A0%C2%A0\" target=\"_blank\" rel=\"nofollow noreferrer\"\n          \u003e\n        https://inside…\n      \u003c/a\u003e\u003c/span\u003e\n    \u003c/h5\u003e\n    \u003ch6 class=\"yj-subtitle\"\u003e\n      \u003cspan\u003einside.ensam.eu\u003c/span\u003e\n    \u003c/h6\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"yj-actions-container\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+                    "ymodule": {
+                        "web_app_id": "open_graph_object",
+                        "app_id": "blank",
+                        "icon_url": "blank.gif"
+                    }
+                }
+            ],
+            "liked_by": {
+                "count": 9,
+                "names": [
+                    {
+                        "full_name": "DEBARNOT Rémy",
+                        "permalink": "remydebarnot",
+                        "user_id": 1489847153,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": " https://inside.ensam.eu/content/%C3%A9quipe-s%C3%BBret%C3%A9-informatique%E2%80%AF-vous-prot%C3%A9ger-et-prot%C3%A9ger-l%E2%80%99%C3%A9tablissement%C2%A0%C2%A0",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1550602093068288,
+            "sender_id": 1652755928,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2022/01/05 14:48:06 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1550602093068288",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1550602093068288",
+            "group_id": 21883920384,
+            "body": {
+                "urls": [
+                    "https://assets.ensam.eu/logo/fr/logo-trans-322x84.png",
+                    "http://www.ensam.eu",
+                    "https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ensam.eu%2F\u0026data=04%7C01%7CJulien.GIRONELLA%40ensam.eu%7C0954c2d4ce164aa9f4e808d87b504657%7Ce034b9b077684b9691b2d8f039816ac1%7C0%7C0%7C637394932006168911%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000\u0026sdata=3jh6TDK%2F0SHnHNj1SL75fjzX1BLNb9RcN9pn6M4fLSo%3D\u0026reserved=0"
+                ],
+                "parsed": "Problème plateforme 3DS Cloud\n---\nBonjour,\n\nJe tenais à vous informer que la plateforme Cloud R2022x hébergé par Dassault Systèmes est actuellement inaccessible depuis 15h30. Je vous tiens au courant des que possible de son retour opérationnel.\n\nCordialement.\n\nJulien GIRONELLA\n\nChef de projet 3DExperience / VDI\nBureau Informatique ANGERS\n\nTél : +33 (0)2 41 20 73 61\n\n[https://assets.ensam.eu/logo/fr/logo-trans-322x84.png]\nEcole Nationale Supérieure d'Arts et Métiers\n2 Bld du Ronceray\nBP 93525\n49035 Angers cedex 1\nTél : +33 (0)2 41 20 73 52 julien.gironella@ensam.eu[[user:1652755928]] http://www.ensam.eu\u003chttps://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ensam.eu%2F\u0026data=04%7C01%7CJulien.GIRONELLA%40ensam.eu%7C0954c2d4ce164aa9f4e808d87b504657%7Ce034b9b077684b9691b2d8f039816ac1%7C0%7C0%7C637394932006168911%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000\u0026sdata=3jh6TDK%2F0SHnHNj1SL75fjzX1BLNb9RcN9pn6M4fLSo%3D\u0026reserved=0\u003e",
+                "plain": "Problème plateforme 3DS Cloud\n---\nBonjour,\n\nJe tenais à vous informer que la plateforme Cloud R2022x hébergé par Dassault Systèmes est actuellement inaccessible depuis 15h30. Je vous tiens au courant des que possible de son retour opérationnel.\n\nCordialement.\n\nJulien GIRONELLA\n\nChef de projet 3DExperience / VDI\nBureau Informatique ANGERS\n\nTél : +33 (0)2 41 20 73 61\n\n[https://assets.ensam.eu/logo/fr/logo-trans-322x84.png]\nEcole Nationale Supérieure d'Arts et Métiers\n2 Bld du Ronceray\nBP 93525\n49035 Angers cedex 1\nTél : +33 (0)2 41 20 73 52 julien.gironella@ensam.euGIRONELLA Julien http://www.ensam.eu\u003chttps://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ensam.eu%2F\u0026data=04%7C01%7CJulien.GIRONELLA%40ensam.eu%7C0954c2d4ce164aa9f4e808d87b504657%7Ce034b9b077684b9691b2d8f039816ac1%7C0%7C0%7C637394932006168911%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000\u0026sdata=3jh6TDK%2F0SHnHNj1SL75fjzX1BLNb9RcN9pn6M4fLSo%3D\u0026reserved=0\u003e",
+                "rich": "Problème plateforme 3DS Cloud\u003cbr\u003e---\u003cbr\u003eBonjour,\u003cbr\u003e\u003cbr\u003eJe tenais à vous informer que la plateforme Cloud R2022x hébergé par Dassault Systèmes est actuellement inaccessible depuis 15h30. Je vous tiens au courant des que possible de son retour opérationnel.\u003cbr\u003e\u003cbr\u003eCordialement.\u003cbr\u003e\u003cbr\u003eJulien GIRONELLA\u003cbr\u003e\u003cbr\u003eChef de projet 3DExperience / VDI\u003cbr\u003eBureau Informatique ANGERS\u003cbr\u003e\u003cbr\u003eTél : +33 (0)2 41 20 73 61\u003cbr\u003e\u003cbr\u003e[\u003ca class=\"linkified\" href=\"https://assets.ensam.eu/logo/fr/logo-trans-322x84.png\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttps://assets.ensam.eu/logo/fr/logo-trans-322x84.png\u003c/a\u003e]\u003cbr\u003eEcole Nationale Supérieure d'Arts et Métiers\u003cbr\u003e2 Bld du Ronceray\u003cbr\u003eBP 93525\u003cbr\u003e49035 Angers cedex 1\u003cbr\u003eTél : +33 (0)2 41 20 73 52 julien.gironella@ensam.eu\u003cspan class='yammer-object' data-yammer-object='user:1652755928' data-resource-id='1652755928' data-resource-model='user'\u003e\u003ca href='https://www.yammer.com/ensam.eu/users/1652755928'\u003eGIRONELLA Julien\u003c/a\u003e\u003c/span\u003e \u003ca class=\"linkified\" href=\"http://www.ensam.eu\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttp://www.ensam.eu\u003c/a\u003e\u0026lt;\u003ca class=\"linkified\" href=\"https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ensam.eu%2F\u0026amp;data=04%7C01%7CJulien.GIRONELLA%40ensam.eu%7C0954c2d4ce164aa9f4e808d87b504657%7Ce034b9b077684b9691b2d8f039816ac1%7C0%7C0%7C637394932006168911%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000\u0026amp;sdata=3jh6TDK%2F0SHnHNj1SL75fjzX1BLNb9RcN9pn6M4fLSo%3D\u0026amp;reserved=0\" title=\"https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ensam.eu%2F\u0026amp;data=04%7C01%7CJulien.GIRONELLA%40ensam.eu%7C0954c2d4ce164aa9f4e808d87b504657%7Ce034b9b077684b9691b2d8f039816ac1%7C0%7C0%7C637394932006168911%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000\u0026amp;sdata=3jh6TDK%2F0SHnHNj1SL75fjzX1BLNb9RcN9pn6M4fLSo%3D\u0026amp;reserved=0\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttps://eur01.safelinks.protection.outlook.com/?url=http%3A%…\u003c/a\u003e\u0026gt;"
+            },
+            "thread_id": 1550602093068288,
+            "client_type": "Email",
+            "client_url": "https://about.yammer.com/yammer-blog/yammer-email-working-better-together/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "id": 1215052988416,
+                    "network_id": 82069,
+                    "url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416",
+                    "web_url": "https://www.yammer.com/ensam.eu/uploaded_files/1215052988416",
+                    "type": "image",
+                    "name": "image001.png",
+                    "original_name": "image001.png",
+                    "full_name": "image001",
+                    "description": "",
+                    "content_type": "image/png",
+                    "content_class": "Image",
+                    "created_at": "2022/01/05 14:47:59 +0000",
+                    "owner_id": 1652755928,
+                    "official": false,
+                    "storage_type": "SHAREPOINT",
+                    "target_type": "GROUP",
+                    "storage_state": null,
+                    "sharepoint_id": "01QUUAHTR6CZSURKNE2ND2UQ4QMF77LSAD",
+                    "sharepoint_web_url": "https://ensameu.sharepoint.com/sites/dsi/Documents%20partages/Applications/Yammer/image001.png",
+                    "small_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+                    "large_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+                    "download_url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/download",
+                    "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/version/1233885822976/thumbnail",
+                    "preview_url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/preview/",
+                    "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/version/1233885822976/large_preview/",
+                    "size": 16874,
+                    "owner_type": "user",
+                    "last_uploaded_at": "2022/01/05 14:47:59 +0000",
+                    "last_uploaded_by_id": 1652755928,
+                    "last_uploaded_by_type": "user",
+                    "uuid": null,
+                    "transcoded": null,
+                    "streaming_url": null,
+                    "path": "82069/1215052988416/image001.png",
+                    "y_id": 1215052988416,
+                    "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/version/1233885822976/preview/",
+                    "privacy": "private",
+                    "group_id": 21883920384,
+                    "height": 60,
+                    "width": 286,
+                    "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/version/1233885822976/scaled/{{width}}x{{height}}",
+                    "image": {
+                        "url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/preview/",
+                        "size": 16874,
+                        "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/1215052988416/version/1233885822976/thumbnail"
+                    },
+                    "latest_version_id": 1233885822976,
+                    "status": "not_ams",
+                    "real_type": "uploaded_file"
+                }
+            ],
+            "liked_by": {
+                "count": 4,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Problème plateforme 3DS Cloud\n---\nBonjour,\n\nJe tenais à vous informer que la plateforme Cloud R2022x hébergé par Dassault Systèmes est actuellement inaccessible depuis 15h30. Je vous tiens au courant des que possible de son retour opérationnel.\n\nCordialement.\n\nJulien GIRONELLA\n\nChef de projet 3DExperience / VDI\nBureau Informatique ANGERS\n\nTél : +33 (0)2 41 20 73 61\n\n[https://assets.ensam.eu/logo/fr/logo-trans-322x84.png]\nEcole Nationale Supérieure d'Arts et Métiers\n2 Bld du Ronceray\nBP 93525\n49035 Angers cedex 1\nTél : +33 (0)2 41 20 73 52 julien.gironella@ensam.euGIRONELLA Julien http://www.ensam.eu\u003chttps://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ensam.eu%2F\u0026data=04%7C01%7CJulien.GIRONELLA%40ensam.eu%7C0954c2d4ce164aa9f4e808d87b504657%7Ce034b9b077684b9691b2d8f039816ac1%7C0%7C0%7C637394932006168911%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000\u0026sdata=3jh6TDK%2F0SHnHNj1SL75fjzX1BLNb9RcN9pn6M4fLSo%3D\u0026reserved=0\u003e",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1497034723549184,
+            "sender_id": 1659945903,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2021/11/29 15:53:42 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1497034723549184",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1497034723549184",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "PROJET ITIL \n\nBonjour à tous,\n\nle Projet ITIL (projet d’étude d’un outil  permettant l’application des processus ITIL pour le Support et le centre de service) pour lequel j’ai été nommée Cheffe de projet a démarré vendredi 26/11/2021.\nL’équipe se compose de Laurent Claiser, Bruno Rabate, Rémy Debarnot et moi-même.\n\nVous pourrez suivre son avancement dans le canal Teams dédié (équipe DSI Support - Canal Projet ITIL) du projet et avoir accès à nos documents de travail ou CR de réunions.\nJe reviendrai cependant régulièrement vers vous ici même ou sur Teams afin de vous tenir au courant de nos avancées.\n\nBon après-midi\nIsabelle",
+                "plain": "PROJET ITIL\n\nBonjour à tous,\n\nle Projet ITIL (projet d’étude d’un outil permettant l’application des processus ITIL pour le Support et le centre de service) pour lequel j’ai été nommée Cheffe de projet a démarré vendredi 26/11/2021.\nL’équipe se compose de Laurent Claiser, Bruno Rabate, Rémy Debarnot et moi-même.\n\nVous pourrez suivre son avancement dans le canal Teams dédié (équipe DSI Support - Canal Projet ITIL) du projet et avoir accès à nos documents de travail ou CR de réunions.\nJe reviendrai cependant régulièrement vers vous ici même ou sur Teams afin de vous tenir au courant de nos avancées.\n\nBon après-midi\nIsabelle",
+                "rich": "PROJET ITIL \u003cbr\u003e\u003cbr\u003eBonjour à tous,\u003cbr\u003e\u003cbr\u003ele Projet ITIL (projet d’étude d’un outil  permettant l’application des processus ITIL pour le Support et le centre de service) pour lequel j’ai été nommée Cheffe de projet a démarré vendredi 26/11/2021.\u003cbr\u003eL’équipe se compose de Laurent Claiser, Bruno Rabate, Rémy Debarnot et moi-même.\u003cbr\u003e\u003cbr\u003eVous pourrez suivre son avancement dans le canal Teams dédié (équipe DSI Support - Canal Projet ITIL) du projet et avoir accès à nos documents de travail ou CR de réunions.\u003cbr\u003eJe reviendrai cependant régulièrement vers vous ici même ou sur Teams afin de vous tenir au courant de nos avancées.\u003cbr\u003e\u003cbr\u003eBon après-midi\u003cbr\u003eIsabelle"
+            },
+            "thread_id": 1497034723549184,
+            "client_type": "Yammer app for Microsoft Teams",
+            "client_url": "http://yammer.com",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 4,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "PROJET ITIL\n\nBonjour à tous,\n\nle Projet ITIL (projet d’étude d’un outil permettant l’application des processus ITIL pour le Support et le centre de service) pour lequel j’ai été nommée Cheffe de projet a démarré vendredi 26/11/2021.\nL’équipe se compose de Laurent Claiser, Bruno Rabate, Rémy Debarnot et moi-même.\n\nVous pourrez suivre son avancement dans le canal Teams dédié (équipe DSI Support - Canal Projet ITIL) du projet et avoir accès à nos documents de travail ou CR de réunions.\nJe reviendrai cependant régulièrement vers vous ici même ou sur Teams afin de vous tenir au courant de nos avancées.\n\nBon après-midi\nIsabelle",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1466461582204928,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2021/11/08 13:42:01 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1466461582204928",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1466461582204928",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Challenge « En route vers les Arts »\nAvis à la communauté, je recherche 4 marcheurs expérimentés pour relever avec moi le challenge « En route vers les Arts ».\n\n--\nextrait du mail d'Anne Tequi\nLe challenge de marche « En route vers les Arts » proposer à tou·te·s les apprenant·e·s et personnels Arts et Métiers de participer à une aventure virtuelle et de faire le tour de France des campus et instituts Arts et Métiers. Vos pas seront convertis grâce à une application sur votre smartphone. Le challenge se déroulera du 15 novembre au 6 décembre...\nVous avez jusqu'au 14 novembre pour vous inscrire.\n--\nSi vous êtes intéresser répondez moi :-)",
+                "plain": "Challenge « En route vers les Arts »\nAvis à la communauté, je recherche 4 marcheurs expérimentés pour relever avec moi le challenge « En route vers les Arts ».\n\n--\nextrait du mail d'Anne Tequi\nLe challenge de marche « En route vers les Arts » proposer à tou·te·s les apprenant·e·s et personnels Arts et Métiers de participer à une aventure virtuelle et de faire le tour de France des campus et instituts Arts et Métiers. Vos pas seront convertis grâce à une application sur votre smartphone. Le challenge se déroulera du 15 novembre au 6 décembre...\nVous avez jusqu'au 14 novembre pour vous inscrire.\n--\nSi vous êtes intéresser répondez moi :-)",
+                "rich": "Challenge « En route vers les Arts »\u003cbr\u003eAvis à la communauté, je recherche 4 marcheurs expérimentés pour relever avec moi le challenge « En route vers les Arts ».\u003cbr\u003e\u003cbr\u003e--\u003cbr\u003eextrait du mail d'Anne Tequi\u003cbr\u003eLe challenge de marche « En route vers les Arts » proposer à tou·te·s les apprenant·e·s et personnels Arts et Métiers de participer à une aventure virtuelle et de faire le tour de France des campus et instituts Arts et Métiers. Vos pas seront convertis grâce à une application sur votre smartphone. Le challenge se déroulera du 15 novembre au 6 décembre...\u003cbr\u003eVous avez jusqu'au 14 novembre pour vous inscrire.\u003cbr\u003e--\u003cbr\u003eSi vous êtes intéresser répondez moi :-)"
+            },
+            "thread_id": 1466461582204928,
+            "client_type": "The new Yammer",
+            "client_url": "https://beta.yammer.com",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 3,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Challenge « En route vers les Arts »\nAvis à la communauté, je recherche 4 marcheurs expérimentés pour relever avec moi le challenge « En route vers les Arts ».\n\n--\nextrait du mail d'Anne Tequi\nLe challenge de marche « En route vers les Arts » proposer à tou·te·s les apprenant·e·s et personnels Arts et Métiers de participer à une aventure virtuelle et de faire le tour de France des campus et instituts Arts et Métiers. Vos pas seront convertis grâce à une application sur votre smartphone. Le challenge se déroulera du 15 novembre au 6 décembre...\nVous avez jusqu'au 14 novembre pour vous inscrire.\n--\nSi vous êtes intéresser répondez moi :-)",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1254457794805760,
+            "sender_id": 500306509824,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2021/06/15 07:35:11 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1254457794805760",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1254457794805760",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Par curiosité, qui sera sur le campus de Paris demain et vendredi ?\n\n(Je vous laisse deviner quels jours je reviens sur sith... heu... sur site).",
+                "plain": "Par curiosité, qui sera sur le campus de Paris demain et vendredi ?\n\n(Je vous laisse deviner quels jours je reviens sur sith... heu... sur site).",
+                "rich": "Par curiosité, qui sera sur le campus de Paris demain et vendredi ?\u003cbr\u003e\u003cbr\u003e(Je vous laisse deviner quels jours je reviens sur sith... heu... sur site)."
+            },
+            "thread_id": 1254457794805760,
+            "client_type": "Web",
+            "client_url": "https://www.yammer.com/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 3,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Par curiosité, qui sera sur le campus de Paris demain et vendredi ?\n\n(Je vous laisse deviner quels jours je reviens sur sith... heu... sur site).",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1218789062787072,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2021/05/21 17:01:29 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1218789062787072",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1218789062787072",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "ߤ«",
+                "plain": "ߤ«",
+                "rich": "ߤ«"
+            },
+            "thread_id": 1218789062787072,
+            "client_type": "Android",
+            "client_url": "https://products.office.com/en-US/yammer/yammer-mobile-app?tab=tabs-2",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 3,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "ߤ«",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1186739775995904,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2021/04/29 14:23:22 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1186739775995904",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1186739775995904",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Le saviez vous... aujourd'hui c'est l'anniversaire de [[user:1652755906]] ߥ³\n\nJoyeux anniversaire ߥ",
+                "plain": "Le saviez vous... aujourd'hui c'est l'anniversaire de LAPEGUE FRÉDÉRIC ߥ³\n\nJoyeux anniversaire ߥ",
+                "rich": "Le saviez vous... aujourd'hui c'est l'anniversaire de \u003cspan class='yammer-object' data-yammer-object='user:1652755906' data-resource-id='1652755906' data-resource-model='user'\u003e\u003ca href='https://www.yammer.com/ensam.eu/users/1652755906'\u003eLAPEGUE FRÉDÉRIC\u003c/a\u003e\u003c/span\u003e ߥ³\u003cbr\u003e\u003cbr\u003eJoyeux anniversaire ߥ"
+            },
+            "thread_id": 1186739775995904,
+            "client_type": "Android",
+            "client_url": "https://products.office.com/en-US/yammer/yammer-mobile-app?tab=tabs-2",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [
+                1652755906
+            ],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 4,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Le saviez vous... aujourd'hui c'est l'anniversaire de LAPEGUE FRÉDÉRIC ߥ³\n\nJoyeux anniversaire ߥ",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1111151201533952,
+            "sender_id": 1493147880,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2021/03/08 10:52:52 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1111151201533952",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1111151201533952",
+            "group_id": 21883920384,
+            "body": {
+                "urls": [
+                    "http://www.dell.fr/advantage/students",
+                    "http://etre.ensam.eu/personnel/demarches-br-procedures/acheter-des-materiels-informatiques/"
+                ],
+                "parsed": "[MATINFO] Des remises pour vos achats personnels\nNotre établissement vient d'adhérer à l'offre Dell Avantage qui permet à tous, étudiants et personnels, de bénéficier de réductions pour l’achat de matériel informatique sur le site www.dell.fr/advantage/students\u003chttp://www.dell.fr/advantage/students\u003e, des réductions allant jusqu’à 20%, voire plus occasionnellement.\nLes personnels peuvent bénéficier également de l’offre PARES pour l’achat de matériel professionnel au prix du marché MATINFO (retrouvez plus d’informations sur ETRE\u003chttp://etre.ensam.eu/personnel/demarches-br-procedures/acheter-des-materiels-informatiques/\u003e).",
+                "plain": "[MATINFO] Des remises pour vos achats personnels\nNotre établissement vient d'adhérer à l'offre Dell Avantage qui permet à tous, étudiants et personnels, de bénéficier de réductions pour l’achat de matériel informatique sur le site www.dell.fr/advantage/students\u003chttp://www.dell.fr/advantage/students\u003e, des réductions allant jusqu’à 20%, voire plus occasionnellement.\nLes personnels peuvent bénéficier également de l’offre PARES pour l’achat de matériel professionnel au prix du marché MATINFO (retrouvez plus d’informations sur ETRE\u003chttp://etre.ensam.eu/personnel/demarches-br-procedures/acheter-des-materiels-informatiques/\u003e).",
+                "rich": "[MATINFO] Des remises pour vos achats personnels\u003cbr\u003eNotre établissement vient d'adhérer à l'offre Dell Avantage qui permet à tous, étudiants et personnels, de bénéficier de réductions pour l’achat de matériel informatique sur le site \u003ca class=\"linkified\" href=\"http://www.dell.fr/advantage/students\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ewww.dell.fr/advantage/students\u003c/a\u003e\u0026lt;\u003ca class=\"linkified\" href=\"http://www.dell.fr/advantage/students\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttp://www.dell.fr/advantage/students\u003c/a\u003e\u0026gt;, des réductions allant jusqu’à 20%, voire plus occasionnellement.\u003cbr\u003eLes personnels peuvent bénéficier également de l’offre PARES pour l’achat de matériel professionnel au prix du marché MATINFO (retrouvez plus d’informations sur ETRE\u0026lt;\u003ca class=\"linkified\" href=\"http://etre.ensam.eu/personnel/demarches-br-procedures/acheter-des-materiels-informatiques/\" title=\"http://etre.ensam.eu/personnel/demarches-br-procedures/acheter-des-materiels-informatiques/\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttp://etre.ensam.eu/personnel/demarches-br-procedures/achet…\u003c/a\u003e\u0026gt;)."
+            },
+            "thread_id": 1111151201533952,
+            "client_type": "Yammer app for Microsoft Teams",
+            "client_url": "http://yammer.com",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "id": 4717396061765632,
+                    "fake_ogo_ymodule": true,
+                    "type": "ymodule",
+                    "record_id": 360624486023168,
+                    "name": "Dell Avantage pour les étudiants | Dell France",
+                    "description": "Profitez de remises exclusives pour les étudiants et de la livraison gratuite sur les ordinateurs portables, les ordinateurs de bureau, les PC de gaming et les accessoires électroniques avec le programme Dell Avantage pour les étudiants. Dépêchez-vous ! Offre valable jusqu’à épuisement des stocks.",
+                    "network_id": 82069,
+                    "web_url": "http://www.dell.fr/advantage/students",
+                    "thumbnail_url": "https://thumbnails.yammer.com/preview?signature=dLx30x%2FtzW2c7qgJ%2Fe9GEvQ3a8v4y3W2qAGZcWPphNs%3D\u0026url=https%3A%2F%2Fi.dell.com%2Fsites%2Fcsimages%2FApp-Merchandizing_Images%2Fall%2Fdsas_student_640x350.jpg",
+                    "object_type": "page",
+                    "object_name": "www.dell.com",
+                    "host_url": "www.dell.fr",
+                    "inline_url": "blank.html",
+                    "inline_html": "\u003cdiv class=\"yj-open-graph-object ymodule-instance\" data-ymodule-instance=\"4717396061765632\"\u003e\n  \u003cdiv class=\"ymodule-instance-4717396061765632-container-1 yj-open-graph-image yj-open-graph-contents\"\u003e\n    \u003cdiv class=\"yj-thumbnail\"\u003e\n      \u003ca href=\"http://www.dell.fr/advantage/students\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\n        \u003cimg src=\"https://thumbnails.yammer.com/preview?signature=dLx30x%2FtzW2c7qgJ%2Fe9GEvQ3a8v4y3W2qAGZcWPphNs%3D\u0026amp;url=https%3A%2F%2Fi.dell.com%2Fsites%2Fcsimages%2FApp-Merchandizing_Images%2Fall%2Fdsas_student_640x350.jpg\" alt=\"\" class=\"yj-icon\" /\u003e\n      \u003c/a\u003e\n    \u003c/div\u003e\n    \u003ch5 class=\"yj-title\"\u003e\n      \u003cspan\u003e\u003ca href=\"http://www.dell.fr/advantage/students\" target=\"_blank\" rel=\"nofollow noreferrer\"\n          \u003e\n        Dell Avantage pour les étudiants | Dell France\n      \u003c/a\u003e\u003c/span\u003e\n    \u003c/h5\u003e\n    \u003ch6 class=\"yj-subtitle\"\u003e\n      \u003cspan\u003ewww.dell.fr\u003c/span\u003e\n    \u003c/h6\u003e\n    \u003cp class=\"yj-description\"\u003e\n      \u003cspan\u003eProfitez de remises exclusives pour les étudiants et de la livraison gratuite sur les ordinateurs portables, les ordinateurs de bureau, les PC de gaming et les accessoires électroniques avec le programme Dell Avantage pour les étudiants. Dépêchez-vous ! Offre valable jusqu’à épuisement des stocks.\u003c/span\u003e\n    \u003c/p\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"yj-actions-container\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+                    "ymodule": {
+                        "web_app_id": "open_graph_object",
+                        "app_id": "blank",
+                        "icon_url": "blank.gif"
+                    }
+                }
+            ],
+            "liked_by": {
+                "count": 6,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "BASSET MYLENE",
+                        "permalink": "mylenebasset",
+                        "user_id": 1498911206,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "[MATINFO] Des remises pour vos achats personnels\nNotre établissement vient d'adhérer à l'offre Dell Avantage qui permet à tous, étudiants et personnels, de bénéficier de réductions pour l’achat de matériel informatique sur le site www.dell.fr/advantage/students\u003chttp://www.dell.fr/advantage/students\u003e, des réductions allant jusqu’à 20%, voire plus occasionnellement.\nLes personnels peuvent bénéficier également de l’offre PARES pour l’achat de matériel professionnel au prix du marché MATINFO (retrouvez plus d’informations sur ETRE\u003chttp://etre.ensam.eu/personnel/demarches-br-procedures/acheter-des-materiels-informatiques/\u003e).",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 1019946050961408,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2021/01/04 12:48:42 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/1019946050961408",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/1019946050961408",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Belle année 2021 tant sur le point personnel que professionnel.\nL'année 2021 devrait s'annoncer plus sereine et pleine d'espoir face à la situation que nous vivons depuis plusieurs mois.\n\nPour ED, 2021 sera une année propice à la consolidation des projets en cours, aux développement de services numériques avec l'app mobile Arts et Métiers.\n\nDébut 2021, nous devrions accueillir un nouveau collègue sur le poste de DevOps pour épauler la sphère web et développement. Et j'espère qu'il sera suivi par l'arrivée d'un ou d'une chef.fe de projet.  \n\nBonne année à toutes et à tous !",
+                "plain": "Belle année 2021 tant sur le point personnel que professionnel.\nL'année 2021 devrait s'annoncer plus sereine et pleine d'espoir face à la situation que nous vivons depuis plusieurs mois.\n\nPour ED, 2021 sera une année propice à la consolidation des projets en cours, aux développement de services numériques avec l'app mobile Arts et Métiers.\n\nDébut 2021, nous devrions accueillir un nouveau collègue sur le poste de DevOps pour épauler la sphère web et développement. Et j'espère qu'il sera suivi par l'arrivée d'un ou d'une chef.fe de projet.\n\nBonne année à toutes et à tous !",
+                "rich": "Belle année 2021 tant sur le point personnel que professionnel.\u003cbr\u003eL'année 2021 devrait s'annoncer plus sereine et pleine d'espoir face à la situation que nous vivons depuis plusieurs mois.\u003cbr\u003e\u003cbr\u003ePour ED, 2021 sera une année propice à la consolidation des projets en cours, aux développement de services numériques avec l'app mobile Arts et Métiers.\u003cbr\u003e\u003cbr\u003eDébut 2021, nous devrions accueillir un nouveau collègue sur le poste de DevOps pour épauler la sphère web et développement. Et j'espère qu'il sera suivi par l'arrivée d'un ou d'une chef.fe de projet.  \u003cbr\u003e\u003cbr\u003eBonne année à toutes et à tous !"
+            },
+            "thread_id": 1019946050961408,
+            "client_type": "Web",
+            "client_url": "https://www.yammer.com/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "id": 861509320704,
+                    "network_id": 82069,
+                    "url": "https://www.yammer.com/api/v1/uploaded_files/861509320704",
+                    "web_url": "https://www.yammer.com/ensam.eu/uploaded_files/861509320704",
+                    "type": "image",
+                    "name": "image.png",
+                    "original_name": "image.png",
+                    "full_name": "image",
+                    "description": "",
+                    "content_type": "image/png",
+                    "content_class": "Image",
+                    "created_at": "2021/01/04 12:48:34 +0000",
+                    "owner_id": 1587588313,
+                    "official": false,
+                    "storage_type": "SHAREPOINT",
+                    "target_type": "GROUP",
+                    "storage_state": null,
+                    "sharepoint_id": "01QUUAHTURDO5OXLYMWNGIFBUDI43VAVQG",
+                    "sharepoint_web_url": "https://ensameu.sharepoint.com/sites/dsi/Documents%20partages/Applications/Yammer/image.png",
+                    "small_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+                    "large_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+                    "download_url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/download",
+                    "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/version/875951071232/thumbnail",
+                    "preview_url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/preview/",
+                    "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/version/875951071232/large_preview/",
+                    "size": 405556,
+                    "owner_type": "user",
+                    "last_uploaded_at": "2021/01/04 12:48:38 +0000",
+                    "last_uploaded_by_id": 1587588313,
+                    "last_uploaded_by_type": "user",
+                    "uuid": null,
+                    "transcoded": null,
+                    "streaming_url": null,
+                    "path": "82069/861509320704/image.png",
+                    "y_id": 861509320704,
+                    "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/version/875951071232/preview/",
+                    "privacy": "private",
+                    "group_id": 21883920384,
+                    "height": 535,
+                    "width": 534,
+                    "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/version/875951071232/scaled/{{width}}x{{height}}",
+                    "image": {
+                        "url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/preview/",
+                        "size": 405556,
+                        "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/861509320704/version/875951071232/thumbnail"
+                    },
+                    "latest_version_id": 875951071232,
+                    "status": "not_ams",
+                    "real_type": "uploaded_file"
+                }
+            ],
+            "liked_by": {
+                "count": 6,
+                "names": [
+                    {
+                        "full_name": "BOF Mireille",
+                        "permalink": "mireillebof",
+                        "user_id": 1493147880,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "BASSET MYLENE",
+                        "permalink": "mylenebasset",
+                        "user_id": 1498911206,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Belle année 2021 tant sur le point personnel que professionnel.\nL'année 2021 devrait s'annoncer plus sereine et pleine d'espoir face à la situation que nous vivons depuis plusieurs mois.\n\nPour ED, 2021 sera une année propice à la consolidation des projets en cours, aux développement de services numériques avec l'app mobile Arts et Métiers.\n\nDébut 2021, nous devrions accueillir un nouveau collègue sur le poste de DevOps pour épauler la sphère web et développement. Et j'espère qu'il sera suivi par l'arrivée d'un ou d'une chef.fe de projet.\n\nBonne année à toutes et à tous !",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 944880997515264,
+            "sender_id": 1652755905,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/11/13 17:58:16 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/944880997515264",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/944880997515264",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "L'essentiel dans la vie est d'être bien entouré… Non ?\n[[tag:51554050048]] [[tag:51554058240]] ",
+                "plain": "L'essentiel dans la vie est d'être bien entouré… Non ?\n#kiwiethecat #chatbonheur",
+                "rich": "L'essentiel dans la vie est d'être bien entouré… Non ?\u003cbr\u003e\u003cspan class='yammer-object' data-yammer-object='tag:51554050048' data-resource-id='51554050048' data-resource-model='tag'\u003e#\u003ca href='https://www.yammer.com/ensam.eu/#/Threads/Search?search=%23kiwiethecat'\u003ekiwiethecat\u003c/a\u003e\u003c/span\u003e \u003cspan class='yammer-object' data-yammer-object='tag:51554058240' data-resource-id='51554058240' data-resource-model='tag'\u003e#\u003ca href='https://www.yammer.com/ensam.eu/#/Threads/Search?search=%23chatbonheur'\u003echatbonheur\u003c/a\u003e\u003c/span\u003e "
+            },
+            "thread_id": 944880997515264,
+            "client_type": "The new Yammer",
+            "client_url": "https://beta.yammer.com",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "id": 805371985920,
+                    "network_id": 82069,
+                    "url": "https://www.yammer.com/api/v1/uploaded_files/805371985920",
+                    "web_url": "https://www.yammer.com/ensam.eu/uploaded_files/805371985920",
+                    "type": "image",
+                    "name": "KiwieEnTeletravail.jpg",
+                    "original_name": "KiwieEnTeletravail.jpg",
+                    "full_name": "KiwieEnTeletravail",
+                    "description": "",
+                    "content_type": "image/jpeg",
+                    "content_class": "Image",
+                    "created_at": "2020/11/13 17:54:41 +0000",
+                    "owner_id": 1652755905,
+                    "official": false,
+                    "storage_type": "SHAREPOINT",
+                    "target_type": "GROUP",
+                    "storage_state": null,
+                    "sharepoint_id": "01QUUAHTTDLKYBVOCP65CKATHAVEP5D33V",
+                    "sharepoint_web_url": "https://ensameu.sharepoint.com/sites/dsi/Documents%20partages/Applications/Yammer/KiwieEnTeletravail.jpg",
+                    "small_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+                    "large_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+                    "download_url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/download",
+                    "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/version/819125239808/thumbnail",
+                    "preview_url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/preview/",
+                    "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/version/819125239808/large_preview/",
+                    "size": 3673899,
+                    "owner_type": "user",
+                    "last_uploaded_at": "2020/11/13 17:54:42 +0000",
+                    "last_uploaded_by_id": 1652755905,
+                    "last_uploaded_by_type": "user",
+                    "uuid": null,
+                    "transcoded": null,
+                    "streaming_url": null,
+                    "path": "82069/805371985920/KiwieEnTeletravail.jpg",
+                    "y_id": 805371985920,
+                    "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/version/819125239808/preview/",
+                    "privacy": "private",
+                    "group_id": 21883920384,
+                    "height": 5664,
+                    "width": 2752,
+                    "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/version/819125239808/scaled/{{width}}x{{height}}",
+                    "image": {
+                        "url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/preview/",
+                        "size": 3673899,
+                        "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/805371985920/version/819125239808/thumbnail"
+                    },
+                    "latest_version_id": 819125239808,
+                    "status": "not_ams",
+                    "real_type": "uploaded_file"
+                }
+            ],
+            "liked_by": {
+                "count": 6,
+                "names": [
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "BARATA Olivier",
+                        "permalink": "olivierbarata",
+                        "user_id": 1587588313,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "PROSPERI Olivier",
+                        "permalink": "olivierprosperi",
+                        "user_id": 1587588370,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "L'essentiel dans la vie est d'être bien entouré… Non ?\n#kiwiethecat #chatbonheur",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 850712459845632,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/09/09 18:50:13 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/850712459845632",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/850712459845632",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Comment se positionne la DSI d'Arts et Métiers à l’heure de la digitalisation ?\n\n\nFin 2019, nous initions, à travers la mise en place de 5 marchés, 5 projets innovants permettant de  répondre à  \"l’objectif de dématérialisation des procédures fixé dans le contrat quinquennal avec l’état pour 2022 !\"\n\nDébut 2020, les projets sont lancés progressivement et se développent conjointement, chacun à leur rythme.\n\nCourant juin, la signature électronique est mise en place pour les conventions de stage sur les campus d'Aix-en-Provence et Bordeaux,  Paris dès demain.  Puis elle s'étendra à d'autres documents administratifs.\n\nSeptembre, se déploient :\n - le guidage intérieur (Mapwize)  sur le campus de Paris, puis par la suite aux autres campus.\n\n- l'application mobile arts et métiers,  agrégateur d'informations, auprès des apprenants, enseignants puis personnels. L'application va progressivement s'enrichir des nouvelles briques d'informations tout au long de l'année.\n\n- la certification des attestations de réussite sécuritées disponible en ligne pour les diplômés d'octobre 2019, puis aux autres diplômés.\n\nEt à venir, le chabot IT, en préparation actuellement. Nous comptons sur vous pour l'entraîner à apprendre...\n\nLa réussite de ses projets repose sur des motivations et implications fortes de différents acteurs d'horizons diverses, à chaque étape du projet (DSI,  DAF, DIRCOM). Je remercie ces personnes (elles se reconnaîtrons) et particulièrement mon compagnon de route à la DSI  [[user:1649005135]] pour son expertise et conseils.\n\n\nVous trouverez sur le prochain article INSIDE (sortie prévue ce vendredi)  des informations complémentaires.",
+                "plain": "Comment se positionne la DSI d'Arts et Métiers à l’heure de la digitalisation ?\n\nFin 2019, nous initions, à travers la mise en place de 5 marchés, 5 projets innovants permettant de répondre à \"l’objectif de dématérialisation des procédures fixé dans le contrat quinquennal avec l’état pour 2022 !\"\n\nDébut 2020, les projets sont lancés progressivement et se développent conjointement, chacun à leur rythme.\n\nCourant juin, la signature électronique est mise en place pour les conventions de stage sur les campus d'Aix-en-Provence et Bordeaux, Paris dès demain. Puis elle s'étendra à d'autres documents administratifs.\n\nSeptembre, se déploient :\n- le guidage intérieur (Mapwize) sur le campus de Paris, puis par la suite aux autres campus.\n\n- l'application mobile arts et métiers, agrégateur d'informations, auprès des apprenants, enseignants puis personnels. L'application va progressivement s'enrichir des nouvelles briques d'informations tout au long de l'année.\n\n- la certification des attestations de réussite sécuritées disponible en ligne pour les diplômés d'octobre 2019, puis aux autres diplômés.\n\nEt à venir, le chabot IT, en préparation actuellement. Nous comptons sur vous pour l'entraîner à apprendre...\n\nLa réussite de ses projets repose sur des motivations et implications fortes de différents acteurs d'horizons diverses, à chaque étape du projet (DSI, DAF, DIRCOM). Je remercie ces personnes (elles se reconnaîtrons) et particulièrement mon compagnon de route à la DSI MARC Matthieu pour son expertise et conseils.\n\nVous trouverez sur le prochain article INSIDE (sortie prévue ce vendredi) des informations complémentaires.",
+                "rich": "Comment se positionne la DSI d'Arts et Métiers à l’heure de la digitalisation ?\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eFin 2019, nous initions, à travers la mise en place de 5 marchés, 5 projets innovants permettant de  répondre à  \"l’objectif de dématérialisation des procédures fixé dans le contrat quinquennal avec l’état pour 2022 !\"\u003cbr\u003e\u003cbr\u003eDébut 2020, les projets sont lancés progressivement et se développent conjointement, chacun à leur rythme.\u003cbr\u003e\u003cbr\u003eCourant juin, la signature électronique est mise en place pour les conventions de stage sur les campus d'Aix-en-Provence et Bordeaux,  Paris dès demain.  Puis elle s'étendra à d'autres documents administratifs.\u003cbr\u003e\u003cbr\u003eSeptembre, se déploient :\u003cbr\u003e - le guidage intérieur (Mapwize)  sur le campus de Paris, puis par la suite aux autres campus.\u003cbr\u003e\u003cbr\u003e- l'application mobile arts et métiers,  agrégateur d'informations, auprès des apprenants, enseignants puis personnels. L'application va progressivement s'enrichir des nouvelles briques d'informations tout au long de l'année.\u003cbr\u003e\u003cbr\u003e- la certification des attestations de réussite sécuritées disponible en ligne pour les diplômés d'octobre 2019, puis aux autres diplômés.\u003cbr\u003e\u003cbr\u003eEt à venir, le chabot IT, en préparation actuellement. Nous comptons sur vous pour l'entraîner à apprendre...\u003cbr\u003e\u003cbr\u003eLa réussite de ses projets repose sur des motivations et implications fortes de différents acteurs d'horizons diverses, à chaque étape du projet (DSI,  DAF, DIRCOM). Je remercie ces personnes (elles se reconnaîtrons) et particulièrement mon compagnon de route à la DSI  \u003cspan class='yammer-object' data-yammer-object='user:1649005135' data-resource-id='1649005135' data-resource-model='user'\u003e\u003ca href='https://www.yammer.com/ensam.eu/users/1649005135'\u003eMARC Matthieu\u003c/a\u003e\u003c/span\u003e pour son expertise et conseils.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eVous trouverez sur le prochain article INSIDE (sortie prévue ce vendredi)  des informations complémentaires."
+            },
+            "thread_id": 850712459845632,
+            "client_type": "Android",
+            "client_url": "https://products.office.com/en-US/yammer/yammer-mobile-app?tab=tabs-2",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [
+                1649005135
+            ],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "id": 733221396480,
+                    "network_id": 82069,
+                    "url": "https://www.yammer.com/api/v1/uploaded_files/733221396480",
+                    "web_url": "https://www.yammer.com/ensam.eu/uploaded_files/733221396480",
+                    "type": "image",
+                    "name": "inside-numerique_retouche-2.jpg",
+                    "original_name": "inside-numerique_retouche-2.jpg",
+                    "full_name": "inside-numerique_retouche-2",
+                    "description": "",
+                    "content_type": "image/jpeg",
+                    "content_class": "Image",
+                    "created_at": "2020/09/09 18:50:09 +0000",
+                    "owner_id": 1587588313,
+                    "official": false,
+                    "storage_type": "SHAREPOINT",
+                    "target_type": "GROUP",
+                    "storage_state": null,
+                    "sharepoint_id": "01QUUAHTTLHWVFCGHERFGIA4ZH7OBUZCQY",
+                    "sharepoint_web_url": "https://ensameu.sharepoint.com/sites/dsi/Documents%20partages/Applications/Yammer/inside-numerique_retouche-2.jpg",
+                    "small_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_39x50_icon.png",
+                    "large_icon_url": "https://s0-azure.assets-yammer.com/assets/images/file_icons/types/picture_orange_79x102_icon.png",
+                    "download_url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/download",
+                    "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/version/745816858624/thumbnail",
+                    "preview_url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/preview/",
+                    "large_preview_url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/version/745816858624/large_preview/",
+                    "size": 548864,
+                    "owner_type": "user",
+                    "last_uploaded_at": "2020/09/09 18:50:09 +0000",
+                    "last_uploaded_by_id": 1587588313,
+                    "last_uploaded_by_type": "user",
+                    "uuid": null,
+                    "transcoded": null,
+                    "streaming_url": null,
+                    "path": "82069/733221396480/inside-numerique_retouche-2.jpg",
+                    "y_id": 733221396480,
+                    "overlay_url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/version/745816858624/preview/",
+                    "privacy": "private",
+                    "group_id": 21883920384,
+                    "height": 755,
+                    "width": 1200,
+                    "scaled_url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/version/745816858624/scaled/{{width}}x{{height}}",
+                    "image": {
+                        "url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/preview/",
+                        "size": 548864,
+                        "thumbnail_url": "https://www.yammer.com/api/v1/uploaded_files/733221396480/version/745816858624/thumbnail"
+                    },
+                    "latest_version_id": 745816858624,
+                    "status": "not_ams",
+                    "real_type": "uploaded_file"
+                }
+            ],
+            "liked_by": {
+                "count": 3,
+                "names": [
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "ARGOT Isabelle",
+                        "permalink": "isabelleargot",
+                        "user_id": 1652755905,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Comment se positionne la DSI d'Arts et Métiers à l’heure de la digitalisation ?\n\nFin 2019, nous initions, à travers la mise en place de 5 marchés, 5 projets innovants permettant de répondre à \"l’objectif de dématérialisation des procédures fixé dans le contrat quinquennal avec l’état pour 2022 !\"\n\nDébut 2020, les projets sont lancés progressivement et se développent conjointement, chacun à leur rythme.\n\nCourant juin, la signature électronique est mise en place pour les conventions de stage sur les campus d'Aix-en-Provence et Bordeaux, Paris dès demain. Puis elle s'étendra à d'autres documents administratifs.\n\nSeptembre, se déploient :\n- le guidage intérieur (Mapwize) sur le campus de Paris, puis par la suite aux autres campus.\n\n- l'application mobile arts et métiers, agrégateur d'informations, auprès des apprenants, enseignants puis personnels. L'application va progressivement s'enrichir des nouvelles briques d'informations tout au long de l'année.\n\n- la certification des attestations de réussite sécuritées disponible en ligne pour les diplômés d'octobre 2019, puis aux autres diplômés.\n\nEt à venir, le chabot IT, en préparation actuellement. Nous comptons sur vous pour l'entraîner à apprendre...\n\nLa réussite de ses projets repose sur des motivations et implications fortes de différents acteurs d'horizons diverses, à chaque étape du projet (DSI, DAF, DIRCOM). Je remercie ces personnes (elles se reconnaîtrons) et particulièrement mon compagnon de route à la DSI MARC Matthieu pour son expertise et conseils.\n\nVous trouverez sur le prochain article INSIDE (sortie prévue ce vendredi) des informations complémentaires.",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 761922934489088,
+            "sender_id": 1652755905,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/07/10 12:45:45 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/761922934489088",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/761922934489088",
+            "group_id": 21883920384,
+            "body": {
+                "urls": [
+                    "https://youtu.be/H7KlWLW5Whg",
+                    "https://youtu.be/Gd9wSNRcbco"
+                ],
+                "parsed": "Un peu de musique pour vos vacances ? \nhttps://youtu.be/H7KlWLW5Whg\nhttps://youtu.be/Gd9wSNRcbco\n\nAmusez vous bien, bonnes vacances à tous  !! ",
+                "plain": "Un peu de musique pour vos vacances ?\nhttps://youtu.be/H7KlWLW5Whg\nhttps://youtu.be/Gd9wSNRcbco\n\nAmusez vous bien, bonnes vacances à tous !!",
+                "rich": "Un peu de musique pour vos vacances ? \u003cbr\u003e\u003ca class=\"linkified\" href=\"https://youtu.be/H7KlWLW5Whg\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttps://youtu.be/H7KlWLW5Whg\u003c/a\u003e\u003cbr\u003e\u003ca class=\"linkified\" href=\"https://youtu.be/Gd9wSNRcbco\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003ehttps://youtu.be/Gd9wSNRcbco\u003c/a\u003e\u003cbr\u003e\u003cbr\u003eAmusez vous bien, bonnes vacances à tous  !! "
+            },
+            "thread_id": 761922934489088,
+            "client_type": "Web",
+            "client_url": "https://www.yammer.com/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "id": 4367602037178368,
+                    "fake_ogo_ymodule": true,
+                    "type": "ymodule",
+                    "record_id": 360567910268928,
+                    "name": "Intouchables - Phillipe a montré à Driss la musique classique [1080 HD][EN,FR SUB]",
+                    "description": "Une scène du film ''Intouchables'' (2011)",
+                    "network_id": 82069,
+                    "web_url": "https://youtu.be/H7KlWLW5Whg",
+                    "thumbnail_url": "https://thumbnails.yammer.com/preview?signature=FS46WiA5lYgjfo44iYcdnrL1g8TmQG9PPzbhj7bUggs%3D\u0026url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FH7KlWLW5Whg%2Fmaxresdefault.jpg",
+                    "object_type": "page",
+                    "object_name": "www.youtube.com",
+                    "host_url": "youtu.be",
+                    "inline_url": "blank.html",
+                    "inline_html": "\u003cdiv class=\"yj-open-graph-object ymodule-instance\" data-ymodule-instance=\"4367602037178368\"\u003e\n  \u003cdiv class=\"ymodule-instance-4367602037178368-container-2\"\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"ymodule-instance-4367602037178368-container-1 yj-open-graph-image yj-open-graph-contents\"\u003e\n    \u003cdiv class=\"yj-thumbnail\"\u003e\n      \u003ca href=\"https://youtu.be/H7KlWLW5Whg\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\n        \u003cimg src=\"https://thumbnails.yammer.com/preview?signature=FS46WiA5lYgjfo44iYcdnrL1g8TmQG9PPzbhj7bUggs%3D\u0026amp;url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FH7KlWLW5Whg%2Fmaxresdefault.jpg\" alt=\"\" class=\"yj-icon\" /\u003e\n      \u003c/a\u003e\n    \u003c/div\u003e\n    \u003ch5 class=\"yj-title\"\u003e\n      \u003cspan\u003e\u003ca href=\"https://youtu.be/H7KlWLW5Whg\" target=\"_blank\" rel=\"nofollow noreferrer\"\n          data-action-onclick=\"embedVideo(\u0026quot;.container-2\u0026quot;, \u0026quot;https://youtu.be/H7KlWLW5Whg\u0026quot;);hide(\u0026quot;.container-1\u0026quot;);\"\u003e\n        Intouchables - Phillipe a montré à Driss la musique classique [1080 HD][EN,FR SUB]\n      \u003c/a\u003e\u003c/span\u003e\n    \u003c/h5\u003e\n    \u003ch6 class=\"yj-subtitle\"\u003e\n      \u003cspan\u003eyoutu.be\u003c/span\u003e\n    \u003c/h6\u003e\n    \u003cp class=\"yj-description\"\u003e\n      \u003cspan\u003eUne scène du film \u0026#39;\u0026#39;Intouchables\u0026#39;\u0026#39; (2011)\u003c/span\u003e\n    \u003c/p\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"yj-actions-container\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+                    "ymodule": {
+                        "web_app_id": "open_graph_object",
+                        "app_id": "blank",
+                        "icon_url": "blank.gif"
+                    },
+                    "video_url": "https://www.youtube.com/embed/H7KlWLW5Whg?rel=0\u0026autoplay=0\u0026wmode=transparent",
+                    "provider_name": "youtube"
+                },
+                {
+                    "id": 4367602104926208,
+                    "fake_ogo_ymodule": true,
+                    "type": "ymodule",
+                    "record_id": 360567917043712,
+                    "name": "Intouchables - Danse de Driss lors de l'anniversaire de Philippe [1080 HD][EN,FR SUB]",
+                    "description": "Une scène du film ''Intouchables'' (2011)",
+                    "network_id": 82069,
+                    "web_url": "https://youtu.be/Gd9wSNRcbco",
+                    "thumbnail_url": "https://thumbnails.yammer.com/preview?signature=Cx1qxXLC83ElgGD0L76fPNfCJ9UZUf1dYpOIA3xGlqw%3D\u0026url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGd9wSNRcbco%2Fmaxresdefault.jpg",
+                    "object_type": "page",
+                    "object_name": "www.youtube.com",
+                    "host_url": "youtu.be",
+                    "inline_url": "blank.html",
+                    "inline_html": "\u003cdiv class=\"yj-open-graph-object ymodule-instance\" data-ymodule-instance=\"4367602104926208\"\u003e\n  \u003cdiv class=\"ymodule-instance-4367602104926208-container-2\"\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"ymodule-instance-4367602104926208-container-1 yj-open-graph-image yj-open-graph-contents\"\u003e\n    \u003cdiv class=\"yj-thumbnail\"\u003e\n      \u003ca href=\"https://youtu.be/Gd9wSNRcbco\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e\n        \u003cimg src=\"https://thumbnails.yammer.com/preview?signature=Cx1qxXLC83ElgGD0L76fPNfCJ9UZUf1dYpOIA3xGlqw%3D\u0026amp;url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGd9wSNRcbco%2Fmaxresdefault.jpg\" alt=\"\" class=\"yj-icon\" /\u003e\n      \u003c/a\u003e\n    \u003c/div\u003e\n    \u003ch5 class=\"yj-title\"\u003e\n      \u003cspan\u003e\u003ca href=\"https://youtu.be/Gd9wSNRcbco\" target=\"_blank\" rel=\"nofollow noreferrer\"\n          data-action-onclick=\"embedVideo(\u0026quot;.container-2\u0026quot;, \u0026quot;https://youtu.be/Gd9wSNRcbco\u0026quot;);hide(\u0026quot;.container-1\u0026quot;);\"\u003e\n        Intouchables - Danse de Driss lors de l\u0026#39;anniversaire de Philippe [1080 HD][EN,FR SUB]\n      \u003c/a\u003e\u003c/span\u003e\n    \u003c/h5\u003e\n    \u003ch6 class=\"yj-subtitle\"\u003e\n      \u003cspan\u003eyoutu.be\u003c/span\u003e\n    \u003c/h6\u003e\n    \u003cp class=\"yj-description\"\u003e\n      \u003cspan\u003eUne scène du film \u0026#39;\u0026#39;Intouchables\u0026#39;\u0026#39; (2011)\u003c/span\u003e\n    \u003c/p\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"yj-actions-container\"\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+                    "ymodule": {
+                        "web_app_id": "open_graph_object",
+                        "app_id": "blank",
+                        "icon_url": "blank.gif"
+                    },
+                    "video_url": "https://www.youtube.com/embed/Gd9wSNRcbco?rel=0\u0026autoplay=0\u0026wmode=transparent",
+                    "provider_name": "youtube"
+                }
+            ],
+            "liked_by": {
+                "count": 4,
+                "names": [
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "PROSPERI Olivier",
+                        "permalink": "olivierprosperi",
+                        "user_id": 1587588370,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Un peu de musique pour vos vacances ?\nhttps://youtu.be/H7KlWLW5Whg\nhttps://youtu.be/Gd9wSNRcbco\n\nAmusez vous bien, bonnes vacances à tous !!",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 728796200878080,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/06/17 16:17:18 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/728796200878080",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/728796200878080",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Un nouveau service voit le jour !\n\nIl s’agit d’un webservice destiné à transmettre de l’information au format json provenant de LISE vers une application tierce.\n\nIl a été créé dans le cadre du projet application mobile (agrégateur d’information).\n\nSon périmètre actuel est limité  aux profils d’une personne (student, teacher, campus). \nIl sera enrichi avec d’autres  fonctionnalités par la suite dès la rentrée : remontée des notes, absences, etc.\n\nJe remercie particulièrement [[user:1649005135]] qui a su identifier la solution ESB KARAF et m’accompagner sur sa réalisation, ainsi que l’équipe infra.\n\nCette expérience ouvre une nouvelle voie de communication des données respectant le standard json...",
+                "plain": "Un nouveau service voit le jour !\n\nIl s’agit d’un webservice destiné à transmettre de l’information au format json provenant de LISE vers une application tierce.\n\nIl a été créé dans le cadre du projet application mobile (agrégateur d’information).\n\nSon périmètre actuel est limité aux profils d’une personne (student, teacher, campus).\nIl sera enrichi avec d’autres fonctionnalités par la suite dès la rentrée : remontée des notes, absences, etc.\n\nJe remercie particulièrement MARC Matthieu qui a su identifier la solution ESB KARAF et m’accompagner sur sa réalisation, ainsi que l’équipe infra.\n\nCette expérience ouvre une nouvelle voie de communication des données respectant le standard json...",
+                "rich": "Un nouveau service voit le jour !\u003cbr\u003e\u003cbr\u003eIl s’agit d’un webservice destiné à transmettre de l’information au format json provenant de LISE vers une application tierce.\u003cbr\u003e\u003cbr\u003eIl a été créé dans le cadre du projet application mobile (agrégateur d’information).\u003cbr\u003e\u003cbr\u003eSon périmètre actuel est limité  aux profils d’une personne (student, teacher, campus). \u003cbr\u003eIl sera enrichi avec d’autres  fonctionnalités par la suite dès la rentrée : remontée des notes, absences, etc.\u003cbr\u003e\u003cbr\u003eJe remercie particulièrement \u003cspan class='yammer-object' data-yammer-object='user:1649005135' data-resource-id='1649005135' data-resource-model='user'\u003e\u003ca href='https://www.yammer.com/ensam.eu/users/1649005135'\u003eMARC Matthieu\u003c/a\u003e\u003c/span\u003e qui a su identifier la solution ESB KARAF et m’accompagner sur sa réalisation, ainsi que l’équipe infra.\u003cbr\u003e\u003cbr\u003eCette expérience ouvre une nouvelle voie de communication des données respectant le standard json..."
+            },
+            "thread_id": 728796200878080,
+            "client_type": "iPhone",
+            "client_url": "https://about.yammer.com/product/mobile/ios/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [
+                1649005135
+            ],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 5,
+                "names": [
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "PROSPERI Olivier",
+                        "permalink": "olivierprosperi",
+                        "user_id": 1587588370,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Un nouveau service voit le jour !\n\nIl s’agit d’un webservice destiné à transmettre de l’information au format json provenant de LISE vers une application tierce.\n\nIl a été créé dans le cadre du projet application mobile (agrégateur d’information).\n\nSon périmètre actuel est limité aux profils d’une personne (student, teacher, campus).\nIl sera enrichi avec d’autres fonctionnalités par la suite dès la rentrée : remontée des notes, absences, etc.\n\nJe remercie particulièrement MARC Matthieu qui a su identifier la solution ESB KARAF et m’accompagner sur sa réalisation, ainsi que l’équipe infra.\n\nCette expérience ouvre une nouvelle voie de communication des données respectant le standard json...",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 699271989968896,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/05/28 07:27:38 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/699271989968896",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/699271989968896",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Signature électronique \nLes premières conventions de stages mises à la signature électronique , 5 signataires vont pouvoir signer sur de multiples supports le document.\nPremières campus concernés Aix et Bordeaux.",
+                "plain": "Signature électronique\nLes premières conventions de stages mises à la signature électronique , 5 signataires vont pouvoir signer sur de multiples supports le document.\nPremières campus concernés Aix et Bordeaux.",
+                "rich": "Signature électronique \u003cbr\u003eLes premières conventions de stages mises à la signature électronique , 5 signataires vont pouvoir signer sur de multiples supports le document.\u003cbr\u003ePremières campus concernés Aix et Bordeaux."
+            },
+            "thread_id": 699271989968896,
+            "client_type": "iPhone",
+            "client_url": "https://about.yammer.com/product/mobile/ios/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 6,
+                "names": [
+                    {
+                        "full_name": "LEMONNIER Bruno",
+                        "permalink": "brunolemonnier",
+                        "user_id": 1520609908,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "PROSPERI Olivier",
+                        "permalink": "olivierprosperi",
+                        "user_id": 1587588370,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Signature électronique\nLes premières conventions de stages mises à la signature électronique , 5 signataires vont pouvoir signer sur de multiples supports le document.\nPremières campus concernés Aix et Bordeaux.",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 685056148234240,
+            "sender_id": 500306509824,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/05/18 12:05:28 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/685056148234240",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/685056148234240",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Quelqu'un sait à qui je dois écrire pour avoir une Attestation Employeur ?",
+                "plain": "Quelqu'un sait à qui je dois écrire pour avoir une Attestation Employeur ?",
+                "rich": "Quelqu'un sait à qui je dois écrire pour avoir une Attestation Employeur ?"
+            },
+            "thread_id": 685056148234240,
+            "client_type": "Web",
+            "client_url": "https://www.yammer.com/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 0,
+                "names": []
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Quelqu'un sait à qui je dois écrire pour avoir une Attestation Employeur ?",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 657299708731392,
+            "sender_id": 1587588313,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/04/29 08:31:55 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/657299708731392",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/657299708731392",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "",
+                "plain": "",
+                "rich": ""
+            },
+            "thread_id": 657299708731392,
+            "client_type": "iPhone",
+            "client_url": "https://about.yammer.com/product/mobile/ios/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "",
+            "notified_user_ids": [
+                1652755906
+            ],
+            "privacy": "private",
+            "attachments": [
+                {
+                    "type": "praise",
+                    "id": 657299708731392,
+                    "network_id": 82069,
+                    "name": "",
+                    "full_name": "",
+                    "description": "BARATA praised LAPEGUE.",
+                    "icon": "thumbsup",
+                    "comment": "Le saviez-vous?\n\nAujourd’hui LAPEGUE Frédéric offre une tournée spéciale ߍ¾",
+                    "web_url": "https://www.yammer.com/ensam.eu/messages/657299708731392",
+                    "url": "https://www.yammer.com/api/v1/messages/657299708731392",
+                    "praised_user_ids": [
+                        1652755906
+                    ]
+                }
+            ],
+            "liked_by": {
+                "count": 3,
+                "names": [
+                    {
+                        "full_name": "PROSPERI Olivier",
+                        "permalink": "olivierprosperi",
+                        "user_id": 1587588370,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "TRUMELET Christophe",
+                        "permalink": "christophetrumelet",
+                        "user_id": 500306509824,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 654764505866240,
+            "sender_id": 500306509824,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/04/27 14:33:25 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/654764505866240",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/654764505866240",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Ça va bien pour tout le monde ?",
+                "plain": "Ça va bien pour tout le monde ?",
+                "rich": "Ça va bien pour tout le monde ?"
+            },
+            "thread_id": 654764505866240,
+            "client_type": "Web",
+            "client_url": "https://www.yammer.com/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 2,
+                "names": [
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    },
+                    {
+                        "full_name": "ARGOT Isabelle",
+                        "permalink": "isabelleargot",
+                        "user_id": 1652755905,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Ça va bien pour tout le monde ?",
+            "group_created_id": 21883920384
+        },
+        {
+            "id": 635922467184640,
+            "sender_id": 500306509824,
+            "delegate_id": null,
+            "replied_to_id": null,
+            "created_at": "2020/04/14 14:35:32 +0000",
+            "network_id": 82069,
+            "message_type": "update",
+            "sender_type": "user",
+            "url": "https://www.yammer.com/api/v1/messages/635922467184640",
+            "web_url": "https://www.yammer.com/ensam.eu/messages/635922467184640",
+            "group_id": 21883920384,
+            "body": {
+                "parsed": "Qui as eu des œufs de Pâques ?",
+                "plain": "Qui as eu des œufs de Pâques ?",
+                "rich": "Qui as eu des œufs de Pâques ?"
+            },
+            "thread_id": 635922467184640,
+            "client_type": "Web",
+            "client_url": "https://www.yammer.com/",
+            "system_message": false,
+            "direct_message": false,
+            "chat_client_sequence": null,
+            "language": "fr",
+            "notified_user_ids": [],
+            "privacy": "private",
+            "attachments": [],
+            "liked_by": {
+                "count": 1,
+                "names": [
+                    {
+                        "full_name": "FOURNET Olivier",
+                        "permalink": "olivierfournet",
+                        "user_id": 1652755901,
+                        "network_id": 82069
+                    }
+                ]
+            },
+            "supplemental_reply": false,
+            "content_excerpt": "Qui as eu des œufs de Pâques ?",
+            "group_created_id": 21883920384
+        }
+    ],
+    "references": [
+        {
+            "type": "tag",
+            "id": 51554050048,
+            "network_id": 82069,
+            "name": "kiwiethecat",
+            "url": "https://www.yammer.com/api/v1/tags/51554050048",
+            "web_url": "https://www.yammer.com/ensam.eu/#/Threads/Search?search=%23kiwiethecat"
+        },
+        {
+            "type": "tag",
+            "id": 51554058240,
+            "network_id": 82069,
+            "name": "chatbonheur",
+            "url": "https://www.yammer.com/api/v1/tags/51554058240",
+            "web_url": "https://www.yammer.com/ensam.eu/#/Threads/Search?search=%23chatbonheur"
+        },
+        {
+            "type": "user",
+            "id": 1659945903,
+            "name": "isabellebarnaud",
+            "state": "active",
+            "full_name": "BARNAUD Isabelle",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/Z9mHd7nvkC2VBSmFLpwCCgzWNc1MF092_d786d1ae-db8b-4517-9cf6-f94df965795c?P1=1664985431\u0026P2=104\u0026P3=1\u0026P4=f6Zrb5TNYYWrty-52m994hQ5qtiL_XkI_9PFKNeRGLYJnFarChhR1ufI6cXLU436mxNWVbCZ8vK_YSHDG8DcDDa4p7sjiiMh5-tpImGyXPMqxC2q_rNfjGb_04nyQi595CcY2CEiLAONkMk9CC3rKqEW9y3EzNl5FRlzj_-NrtflpthGFmCmqcZa4nVXkuqfBKG1pcIkmhhBp7O5KWJAp1rAFmLj_iLhsznP5zruJyadWwz1s_CgB-ywna6tnYrfzLI2QPBLKuhQuvUVWv5Vcf1VNhtgxXc2VedBOFZBzkXgV5O3fUyLH7uV0aCzXpKRJER74crR3nmXpsYSeFfrbw\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/Z9mHd7nvkC2VBSmFLpwCCgzWNc1MF092_d786d1ae-db8b-4517-9cf6-f94df965795c",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/Z9mHd7nvkC2VBSmFLpwCCgzWNc1MF092_d786d1ae-db8b-4517-9cf6-f94df965795c?P1=1664985431\u0026P2=104\u0026P3=1\u0026P4=f6Zrb5TNYYWrty-52m994hQ5qtiL_XkI_9PFKNeRGLYJnFarChhR1ufI6cXLU436mxNWVbCZ8vK_YSHDG8DcDDa4p7sjiiMh5-tpImGyXPMqxC2q_rNfjGb_04nyQi595CcY2CEiLAONkMk9CC3rKqEW9y3EzNl5FRlzj_-NrtflpthGFmCmqcZa4nVXkuqfBKG1pcIkmhhBp7O5KWJAp1rAFmLj_iLhsznP5zruJyadWwz1s_CgB-ywna6tnYrfzLI2QPBLKuhQuvUVWv5Vcf1VNhtgxXc2VedBOFZBzkXgV5O3fUyLH7uV0aCzXpKRJER74crR3nmXpsYSeFfrbw\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/Z9mHd7nvkC2VBSmFLpwCCgzWNc1MF092_d786d1ae-db8b-4517-9cf6-f94df965795c",
+            "url": "https://www.yammer.com/api/v1/users/1659945903",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1659945903",
+            "activated_at": "2018/01/22 16:12:14 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 37,
+                "followers": 38,
+                "updates": 0
+            },
+            "email": "isabelle.barnaud@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1649005135,
+            "name": "matthieumarc",
+            "state": "active",
+            "full_name": "MARC Matthieu",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/QRFTGPR-QSzsCrNn7P-nSsTWWbbVH03S_dd1fe88c-25bf-430a-a131-544625478418?P1=1664985216\u0026P2=104\u0026P3=1\u0026P4=GSkSOi3a3O493k26MOCBaJDwsNk130HlQrBThg0wUeUFRGwyOIAVCdKE79Uq9J9bYQ3VcGvjV6RE6Q1v_KbLKa2cjL4cHaN8s9oD4nsLr0mz6cTqSW-uO3cP0PaCdrluZFa5fUlPceu8tPfiafVpy4iRa_0LSJBLlGvPJdG_OqdC2pXkIweKILa7hiH--rZqGAwcSZzuhwBbmVhYLv8B4Tnlq9DLfyOi4K2R7rCnESqQV87vkB2dPNDVS55Ip1HsQ2_Wrtsi3fcRqwR1UQAcLWPZ6FvlTpdJHLC2sXs2VcPsDO89EMqzHoLhLZ6oq_Nu4v32miH-XDMIpoeJI43MJg\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/QRFTGPR-QSzsCrNn7P-nSsTWWbbVH03S_dd1fe88c-25bf-430a-a131-544625478418",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/QRFTGPR-QSzsCrNn7P-nSsTWWbbVH03S_dd1fe88c-25bf-430a-a131-544625478418?P1=1664985216\u0026P2=104\u0026P3=1\u0026P4=GSkSOi3a3O493k26MOCBaJDwsNk130HlQrBThg0wUeUFRGwyOIAVCdKE79Uq9J9bYQ3VcGvjV6RE6Q1v_KbLKa2cjL4cHaN8s9oD4nsLr0mz6cTqSW-uO3cP0PaCdrluZFa5fUlPceu8tPfiafVpy4iRa_0LSJBLlGvPJdG_OqdC2pXkIweKILa7hiH--rZqGAwcSZzuhwBbmVhYLv8B4Tnlq9DLfyOi4K2R7rCnESqQV87vkB2dPNDVS55Ip1HsQ2_Wrtsi3fcRqwR1UQAcLWPZ6FvlTpdJHLC2sXs2VcPsDO89EMqzHoLhLZ6oq_Nu4v32miH-XDMIpoeJI43MJg\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/QRFTGPR-QSzsCrNn7P-nSsTWWbbVH03S_dd1fe88c-25bf-430a-a131-544625478418",
+            "url": "https://www.yammer.com/api/v1/users/1649005135",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1649005135",
+            "activated_at": "2017/10/17 08:08:36 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 0,
+                "followers": 4,
+                "updates": 0
+            },
+            "email": "matthieu.marc@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1652755934,
+            "name": "gaetanvanhulle",
+            "state": "active",
+            "full_name": "VANHULLE GAËTAN",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/MJKjw0TDcR5K1gnCH00bHZZFtdNkBlts_59e0ff70-343c-4512-805e-4367c8974bf0?P1=1664985218\u0026P2=104\u0026P3=1\u0026P4=XEMyRMNcdCIx2zFy40JIfDZIonCfgzukhnkv8d3y3oimr1-VQMtS46Rktku-rM0VeLO3kFcWPB4Tu33PwbV800exENvRQKL3aOjD0nDXJePsQmKwhhhOfYy8cOpLTNUCRlWXo8qQYuCRMJWoDluDslEeBYu2qiZQf8LBDdpGIP-5AMnp0GpfkjndPCoRV3Hs-qtU6Z4zUHXSC31H1IuyCLKgTUOnetbwjGCFIRutmtdrXCWVPRvavfXDDHzOfh3DdOQTCaO5VYZaMkLcgr6jw__B0sFNEqx_V7WBKXmuGELFlbhz0-4QqBf2PKtFkfjWffGwe-aI-HW9Swx5Rc9zIA\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/MJKjw0TDcR5K1gnCH00bHZZFtdNkBlts_59e0ff70-343c-4512-805e-4367c8974bf0",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/MJKjw0TDcR5K1gnCH00bHZZFtdNkBlts_59e0ff70-343c-4512-805e-4367c8974bf0?P1=1664985218\u0026P2=104\u0026P3=1\u0026P4=XEMyRMNcdCIx2zFy40JIfDZIonCfgzukhnkv8d3y3oimr1-VQMtS46Rktku-rM0VeLO3kFcWPB4Tu33PwbV800exENvRQKL3aOjD0nDXJePsQmKwhhhOfYy8cOpLTNUCRlWXo8qQYuCRMJWoDluDslEeBYu2qiZQf8LBDdpGIP-5AMnp0GpfkjndPCoRV3Hs-qtU6Z4zUHXSC31H1IuyCLKgTUOnetbwjGCFIRutmtdrXCWVPRvavfXDDHzOfh3DdOQTCaO5VYZaMkLcgr6jw__B0sFNEqx_V7WBKXmuGELFlbhz0-4QqBf2PKtFkfjWffGwe-aI-HW9Swx5Rc9zIA\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/MJKjw0TDcR5K1gnCH00bHZZFtdNkBlts_59e0ff70-343c-4512-805e-4367c8974bf0",
+            "url": "https://www.yammer.com/api/v1/users/1652755934",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1652755934",
+            "activated_at": "2019/04/09 10:05:04 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 0,
+                "followers": 2,
+                "updates": 0
+            },
+            "email": "gaetan.vanhulle@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1652755941,
+            "name": "laurentclaiser",
+            "state": "active",
+            "full_name": "CLAISER Laurent",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/834jSg7K3GmzqvBkDncNtXCDZL8RqqT2_3e151133-b473-4917-bc4c-56cbcd606220?P1=1664985249\u0026P2=104\u0026P3=1\u0026P4=OU_DoM1iq_viaV59b9utQkHn1YdpAitSGrRE9f11qbuLZzg7y22wlTfUn-rXk-zm0c_Lmz34yca6FdGtAR5092YdGRsbGFtzJBH1pNbPskNpRwwMRfwk2qcuYssYswiH9Wjp8KXyn2nxcRPVlcPzEtLAB5xxX_zC_JmK9K2-gOpIx54gnn75-o4lbr_eLDGtdTOws0tYxdqhr99OlxBgrW4KNJDyI-oGr1KwdDLA-F_J2sWL-eUGqhKKxt4aFdSOCkMxOLq5CeDag36Mq9nahsCEnLUi1RJ_fpIzYp1C0_UzNwfmShGGwwGNDfugOqYjxe15Hp8yFiiwPCypR_jV4g\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/834jSg7K3GmzqvBkDncNtXCDZL8RqqT2_3e151133-b473-4917-bc4c-56cbcd606220",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/834jSg7K3GmzqvBkDncNtXCDZL8RqqT2_3e151133-b473-4917-bc4c-56cbcd606220?P1=1664985249\u0026P2=104\u0026P3=1\u0026P4=OU_DoM1iq_viaV59b9utQkHn1YdpAitSGrRE9f11qbuLZzg7y22wlTfUn-rXk-zm0c_Lmz34yca6FdGtAR5092YdGRsbGFtzJBH1pNbPskNpRwwMRfwk2qcuYssYswiH9Wjp8KXyn2nxcRPVlcPzEtLAB5xxX_zC_JmK9K2-gOpIx54gnn75-o4lbr_eLDGtdTOws0tYxdqhr99OlxBgrW4KNJDyI-oGr1KwdDLA-F_J2sWL-eUGqhKKxt4aFdSOCkMxOLq5CeDag36Mq9nahsCEnLUi1RJ_fpIzYp1C0_UzNwfmShGGwwGNDfugOqYjxe15Hp8yFiiwPCypR_jV4g\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/834jSg7K3GmzqvBkDncNtXCDZL8RqqT2_3e151133-b473-4917-bc4c-56cbcd606220",
+            "url": "https://www.yammer.com/api/v1/users/1652755941",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1652755941",
+            "activated_at": "2020/04/16 12:49:44 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 0,
+                "followers": 0,
+                "updates": 0
+            },
+            "email": "laurent.claiser@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1652755903,
+            "name": "mathieulasserre",
+            "state": "active",
+            "full_name": "LASSERRE Mathieu",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/RRsCgTqg9mF05HTs0WJbGh9hdqHGmLvS_08b7fc98-3e62-452a-bca2-92f5900aa153?P1=1664985402\u0026P2=104\u0026P3=1\u0026P4=p47mi6RmYjdrG8pb5Yo2pYoSNJPPvKJVtMMASH_5AbRtkdhccIFCBj-jX1F3gKK0xM6LNd9lIzljfya5NI5138vFGVbH2IosPNMEWJnUDj4wvkKtTga7H9VIwoxj79HRmWbCbn6MyB5gghcGDQ8eNtqeIqqX8kDHMEQ9KG53ORNgKq-5zduVBWpyP-mX3PY9BKIH2PPFmQlrswbTHgdIQez3uH99yVBa-P8a4qx9o4gaT4QhKe-iN8MRLtIdJzG73dN1jx-doKiIJ2o6P13dlb4UiY-EqscGa1MEdNrI9AbCYLCnIyvLsZIfjD5VgcIIWxXNrFib6KmkH1xuKMuwpw\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/RRsCgTqg9mF05HTs0WJbGh9hdqHGmLvS_08b7fc98-3e62-452a-bca2-92f5900aa153",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/RRsCgTqg9mF05HTs0WJbGh9hdqHGmLvS_08b7fc98-3e62-452a-bca2-92f5900aa153?P1=1664985402\u0026P2=104\u0026P3=1\u0026P4=p47mi6RmYjdrG8pb5Yo2pYoSNJPPvKJVtMMASH_5AbRtkdhccIFCBj-jX1F3gKK0xM6LNd9lIzljfya5NI5138vFGVbH2IosPNMEWJnUDj4wvkKtTga7H9VIwoxj79HRmWbCbn6MyB5gghcGDQ8eNtqeIqqX8kDHMEQ9KG53ORNgKq-5zduVBWpyP-mX3PY9BKIH2PPFmQlrswbTHgdIQez3uH99yVBa-P8a4qx9o4gaT4QhKe-iN8MRLtIdJzG73dN1jx-doKiIJ2o6P13dlb4UiY-EqscGa1MEdNrI9AbCYLCnIyvLsZIfjD5VgcIIWxXNrFib6KmkH1xuKMuwpw\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/RRsCgTqg9mF05HTs0WJbGh9hdqHGmLvS_08b7fc98-3e62-452a-bca2-92f5900aa153",
+            "url": "https://www.yammer.com/api/v1/users/1652755903",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1652755903",
+            "activated_at": "2019/01/29 16:39:56 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 1,
+                "followers": 1,
+                "updates": 0
+            },
+            "email": "mathieu.lasserre@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1652755905,
+            "name": "isabelleargot",
+            "state": "active",
+            "full_name": "ARGOT Isabelle",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/ZNxwBDBlNfqTBRwhKM6nZFhhb5s1cd3L_e34bd2e5-ab0f-4ea7-abfa-22ec7c3c569a?P1=1664985778\u0026P2=104\u0026P3=1\u0026P4=UH3UCFfKXBkDcXQdVVLyyxy84tP3x9uy6viKKweXcQmDC6VjEo8__k3WatjqpS-IFGhFuSQr4_A6uhLVNpQPaW8AwuKyhSkHw9EoLgbXjUBS8Ut_xkuQafMcOlf-5A00tCb3V8Lat4B_ChZO15bXHdVI1StGoiifiUVLUy1Q1t8EGJv0s3nDUD-IXphddiuGbkibIrt3BGSAVd8OxY7HTV06NRHQgxUGo2KhOwwVEUjKhShkGznzDTlUd1b-2pfv3lDcuuaV7rl59g90O25h3JPjIx4xVpo-gSRbCFHA-KHgjYqSiWSThOqJxlaOGfWuvQvu5XussKYL4PEp6p4IIg\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/ZNxwBDBlNfqTBRwhKM6nZFhhb5s1cd3L_e34bd2e5-ab0f-4ea7-abfa-22ec7c3c569a",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/ZNxwBDBlNfqTBRwhKM6nZFhhb5s1cd3L_e34bd2e5-ab0f-4ea7-abfa-22ec7c3c569a?P1=1664985778\u0026P2=104\u0026P3=1\u0026P4=UH3UCFfKXBkDcXQdVVLyyxy84tP3x9uy6viKKweXcQmDC6VjEo8__k3WatjqpS-IFGhFuSQr4_A6uhLVNpQPaW8AwuKyhSkHw9EoLgbXjUBS8Ut_xkuQafMcOlf-5A00tCb3V8Lat4B_ChZO15bXHdVI1StGoiifiUVLUy1Q1t8EGJv0s3nDUD-IXphddiuGbkibIrt3BGSAVd8OxY7HTV06NRHQgxUGo2KhOwwVEUjKhShkGznzDTlUd1b-2pfv3lDcuuaV7rl59g90O25h3JPjIx4xVpo-gSRbCFHA-KHgjYqSiWSThOqJxlaOGfWuvQvu5XussKYL4PEp6p4IIg\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/ZNxwBDBlNfqTBRwhKM6nZFhhb5s1cd3L_e34bd2e5-ab0f-4ea7-abfa-22ec7c3c569a",
+            "url": "https://www.yammer.com/api/v1/users/1652755905",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1652755905",
+            "activated_at": "2018/01/30 15:42:32 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 8,
+                "followers": 10,
+                "updates": 0
+            },
+            "email": "isabelle.argot@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1652755928,
+            "name": "juliengironella",
+            "state": "active",
+            "full_name": "GIRONELLA Julien",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/M07n85q01G7Xm1V-wQdmbHXV6vNGDX48_bf56e552-7961-43b7-afc0-3ad92d6f2b1c?P1=1664985213\u0026P2=104\u0026P3=1\u0026P4=ru5BrqFlbrE2wFPxsBPFuV3Iku1ARsuYKW00uDHSaMgSotrjyQ4ZfxNnQsd2pVMcsA5BF5PqlY9pKIMx5vRpQ4eRjvcpjG_2i-aY88Jlwys22HixosqAZhrg9tfZKdQizyw0cazvqApamVvG80n-EInDSM_R5Tgs8mgwnN8JRQ9Pf7eFzK8RV_mDOBXBzTQ-Hg4NezX-W-vnfKuxKBx7BjXc2gubQURTk45qmztq3uCpwT5-rzF0aKwT21ppDPwON9zRiql-B9ChFoIm1CEMO4NoNVXpGr2HvEFivatZO8OJRV7zrjLHa6Yg5t-mRF2-1ahbAdn33xpjyGmmIOrz6A\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/M07n85q01G7Xm1V-wQdmbHXV6vNGDX48_bf56e552-7961-43b7-afc0-3ad92d6f2b1c",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/M07n85q01G7Xm1V-wQdmbHXV6vNGDX48_bf56e552-7961-43b7-afc0-3ad92d6f2b1c?P1=1664985213\u0026P2=104\u0026P3=1\u0026P4=ru5BrqFlbrE2wFPxsBPFuV3Iku1ARsuYKW00uDHSaMgSotrjyQ4ZfxNnQsd2pVMcsA5BF5PqlY9pKIMx5vRpQ4eRjvcpjG_2i-aY88Jlwys22HixosqAZhrg9tfZKdQizyw0cazvqApamVvG80n-EInDSM_R5Tgs8mgwnN8JRQ9Pf7eFzK8RV_mDOBXBzTQ-Hg4NezX-W-vnfKuxKBx7BjXc2gubQURTk45qmztq3uCpwT5-rzF0aKwT21ppDPwON9zRiql-B9ChFoIm1CEMO4NoNVXpGr2HvEFivatZO8OJRV7zrjLHa6Yg5t-mRF2-1ahbAdn33xpjyGmmIOrz6A\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/M07n85q01G7Xm1V-wQdmbHXV6vNGDX48_bf56e552-7961-43b7-afc0-3ad92d6f2b1c",
+            "url": "https://www.yammer.com/api/v1/users/1652755928",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1652755928",
+            "activated_at": "2019/02/05 12:28:04 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 0,
+                "followers": 1,
+                "updates": 0
+            },
+            "email": "julien.gironella@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1587588313,
+            "name": "olivierbarata",
+            "state": "active",
+            "full_name": "BARATA Olivier",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/vxGk3PZzJpVCkGKC1c8z6ttvQ3Vgjb2b_604f2865-d7bf-4f9f-83db-bfa8c012bcad?P1=1664985731\u0026P2=104\u0026P3=1\u0026P4=mhvbQAHvMXyh7s5jYHyqZhCL8Th_ehjORFD9tyx6fy--aZAmwv6ccBYZDuYJC_6OXv20l_u-0zP1-3DgZn_aYofAnBSsF_g13r3UHPb5RP7xAyNzrj3i36f3l-uoKSCKkoy-gWyjr6rUgM0292hzm-DCJOp3vmoDBt2UPEhnimZOnPE1bSryS47gCHA0tEdiJ4rvYDLs7KYHUaA0AS3pz1RgFXRMj1fDFbomZifldHJaBE4kKD8Sb7JVjPDfxX2h1ez1CWN_HhzAJVLrwAxfK1YfnxxlGJu92o0knhWszbuKVd_-Mi-eCRb6asswAwZ9iMmzmdLH2EM-5LlfmF6u6w\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/vxGk3PZzJpVCkGKC1c8z6ttvQ3Vgjb2b_604f2865-d7bf-4f9f-83db-bfa8c012bcad",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/vxGk3PZzJpVCkGKC1c8z6ttvQ3Vgjb2b_604f2865-d7bf-4f9f-83db-bfa8c012bcad?P1=1664985731\u0026P2=104\u0026P3=1\u0026P4=mhvbQAHvMXyh7s5jYHyqZhCL8Th_ehjORFD9tyx6fy--aZAmwv6ccBYZDuYJC_6OXv20l_u-0zP1-3DgZn_aYofAnBSsF_g13r3UHPb5RP7xAyNzrj3i36f3l-uoKSCKkoy-gWyjr6rUgM0292hzm-DCJOp3vmoDBt2UPEhnimZOnPE1bSryS47gCHA0tEdiJ4rvYDLs7KYHUaA0AS3pz1RgFXRMj1fDFbomZifldHJaBE4kKD8Sb7JVjPDfxX2h1ez1CWN_HhzAJVLrwAxfK1YfnxxlGJu92o0knhWszbuKVd_-Mi-eCRb6asswAwZ9iMmzmdLH2EM-5LlfmF6u6w\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/vxGk3PZzJpVCkGKC1c8z6ttvQ3Vgjb2b_604f2865-d7bf-4f9f-83db-bfa8c012bcad",
+            "url": "https://www.yammer.com/api/v1/users/1587588313",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1587588313",
+            "activated_at": "2017/11/09 20:39:32 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 8,
+                "followers": 8,
+                "updates": 0
+            },
+            "email": "olivier.barata@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 500306509824,
+            "name": "christophetrumelet",
+            "state": "active",
+            "full_name": "TRUMELET Christophe",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/6QwrnmtdNG1sr42Xw9Z19hVPtmNRjqRR_96eaf10f-f56b-4c0a-bcbb-627a5b9ce7d9?P1=1664985787\u0026P2=104\u0026P3=1\u0026P4=mzKycWATH7utbW_cJKbWFq9mlCHLKzHYiE3rU8nW2gtf0Go4QSYwvqKw9gA1ChOUQ5eBGwj8ZgzyAKNsoXjRK2BzipI_49NnAvofuw2N4vncOwDLvjwFhQFROvbw_4o0H8LYgLnJu78I1FLX1qI7u9TpF5DWmEVUi_kLGwVvyKrYXo34EETorGVeDf60y2vjm9Afbb6p7KwA560goD2zohYwcmDFQmo-qzOYuoBimtt4jp8Ex6p_-l8iA3ULldzOSXjBk3f5-4d-3uifs2qYJt3Fnf4VDVcgx4x_EwYFjSOe6fYl56a3lfnhur2wwQVY1NrLTnZTsLMKmisnDSyXUQ\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/6QwrnmtdNG1sr42Xw9Z19hVPtmNRjqRR_96eaf10f-f56b-4c0a-bcbb-627a5b9ce7d9",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/6QwrnmtdNG1sr42Xw9Z19hVPtmNRjqRR_96eaf10f-f56b-4c0a-bcbb-627a5b9ce7d9?P1=1664985787\u0026P2=104\u0026P3=1\u0026P4=mzKycWATH7utbW_cJKbWFq9mlCHLKzHYiE3rU8nW2gtf0Go4QSYwvqKw9gA1ChOUQ5eBGwj8ZgzyAKNsoXjRK2BzipI_49NnAvofuw2N4vncOwDLvjwFhQFROvbw_4o0H8LYgLnJu78I1FLX1qI7u9TpF5DWmEVUi_kLGwVvyKrYXo34EETorGVeDf60y2vjm9Afbb6p7KwA560goD2zohYwcmDFQmo-qzOYuoBimtt4jp8Ex6p_-l8iA3ULldzOSXjBk3f5-4d-3uifs2qYJt3Fnf4VDVcgx4x_EwYFjSOe6fYl56a3lfnhur2wwQVY1NrLTnZTsLMKmisnDSyXUQ\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/6QwrnmtdNG1sr42Xw9Z19hVPtmNRjqRR_96eaf10f-f56b-4c0a-bcbb-627a5b9ce7d9",
+            "url": "https://www.yammer.com/api/v1/users/500306509824",
+            "web_url": "https://www.yammer.com/ensam.eu/users/500306509824",
+            "activated_at": "2020/04/10 08:41:46 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 0,
+                "followers": 0,
+                "updates": 0
+            },
+            "email": "christophe.trumelet@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1652755906,
+            "name": "fredericlapegue",
+            "state": "active",
+            "full_name": "LAPEGUE FRÉDÉRIC",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/bPRxk2R9P4ncwWG2Ct28S-3KNXSttm74_d00eeb2e-54e5-4bc9-9e17-66e7c4522085?P1=1664985258\u0026P2=104\u0026P3=1\u0026P4=YtIDUmlYbzKDPvFNfZluWrdYNducFNUZLTztIDnbYUsCUg6urG7JCiBxdz0B63Wzsg9nSJLJ2kzdFqS8YTIRTL-1XZtAKJruomXzsU-5Q0cZvR8vgj0NSVuSH4FnjF2mCK2psaA05oYEtBDA0VxGyOj_Hn_TfYc0vqP27nykx8v-BW9bH9taDdPqHQNu0AwS1ucUP2gj1WEVyNbZU_n57iPvpfAEN3-5v-gwOB3O-YHFy2R6xZ5yPqxudkNWbmI7RCIJC6bEc5ZrXsdqxQs2hIRF4ktO_AIGjOUzW07rKdv9fkBMRidK85UsSCbtZhbhSby2cDRvVGYNHdV3pRsn2A\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/bPRxk2R9P4ncwWG2Ct28S-3KNXSttm74_d00eeb2e-54e5-4bc9-9e17-66e7c4522085",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/bPRxk2R9P4ncwWG2Ct28S-3KNXSttm74_d00eeb2e-54e5-4bc9-9e17-66e7c4522085?P1=1664985258\u0026P2=104\u0026P3=1\u0026P4=YtIDUmlYbzKDPvFNfZluWrdYNducFNUZLTztIDnbYUsCUg6urG7JCiBxdz0B63Wzsg9nSJLJ2kzdFqS8YTIRTL-1XZtAKJruomXzsU-5Q0cZvR8vgj0NSVuSH4FnjF2mCK2psaA05oYEtBDA0VxGyOj_Hn_TfYc0vqP27nykx8v-BW9bH9taDdPqHQNu0AwS1ucUP2gj1WEVyNbZU_n57iPvpfAEN3-5v-gwOB3O-YHFy2R6xZ5yPqxudkNWbmI7RCIJC6bEc5ZrXsdqxQs2hIRF4ktO_AIGjOUzW07rKdv9fkBMRidK85UsSCbtZhbhSby2cDRvVGYNHdV3pRsn2A\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/bPRxk2R9P4ncwWG2Ct28S-3KNXSttm74_d00eeb2e-54e5-4bc9-9e17-66e7c4522085",
+            "url": "https://www.yammer.com/api/v1/users/1652755906",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1652755906",
+            "activated_at": "2018/01/17 09:39:26 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 0,
+                "followers": 0,
+                "updates": 0
+            },
+            "email": "frederic.lapegue@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "type": "user",
+            "id": 1493147880,
+            "name": "mireillebof",
+            "state": "active",
+            "full_name": "BOF Mireille",
+            "job_title": "staff",
+            "network_id": 82069,
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/lBDp5LQWWbj0BqMVk0n1HBT4Ql2374n4_940df70b-b179-49e6-8389-a8e0af18ad1d?P1=1664985209\u0026P2=104\u0026P3=1\u0026P4=Hk0Qhs1WDyIA6P_TBnroZMhyvE8hSzTu3ZDmXwGmC7PHHnAcdKU2OGnh17Tcod-X7_W9VH_D4MyHq4eTNSE9ws2JstSfG6-f_NS2dwNbOY2rJYTPvF5FNCK_G9yEaJSARg75nF1BdqS6gC8ipLHmz5GN1ifrT8s1lkzoJabd6MSdP0dKvHkGfJovr9lJJ3viNJ2PcgY8GA9cSjxkEnKGN5WGKpPYuJJOjOF2pgndS-cAOV6MTFRcJHA04xtaKSARl7dVZz4I7VCJpwU_6XK-NVP_cwtmR9QruJbJjVYw6B235pVUw0VW_sqlIYZBfpA93g2bdpKKB1D62rrCPUbGYQ\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/lBDp5LQWWbj0BqMVk0n1HBT4Ql2374n4_940df70b-b179-49e6-8389-a8e0af18ad1d",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/lBDp5LQWWbj0BqMVk0n1HBT4Ql2374n4_940df70b-b179-49e6-8389-a8e0af18ad1d?P1=1664985209\u0026P2=104\u0026P3=1\u0026P4=Hk0Qhs1WDyIA6P_TBnroZMhyvE8hSzTu3ZDmXwGmC7PHHnAcdKU2OGnh17Tcod-X7_W9VH_D4MyHq4eTNSE9ws2JstSfG6-f_NS2dwNbOY2rJYTPvF5FNCK_G9yEaJSARg75nF1BdqS6gC8ipLHmz5GN1ifrT8s1lkzoJabd6MSdP0dKvHkGfJovr9lJJ3viNJ2PcgY8GA9cSjxkEnKGN5WGKpPYuJJOjOF2pgndS-cAOV6MTFRcJHA04xtaKSARl7dVZz4I7VCJpwU_6XK-NVP_cwtmR9QruJbJjVYw6B235pVUw0VW_sqlIYZBfpA93g2bdpKKB1D62rrCPUbGYQ\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/lBDp5LQWWbj0BqMVk0n1HBT4Ql2374n4_940df70b-b179-49e6-8389-a8e0af18ad1d",
+            "url": "https://www.yammer.com/api/v1/users/1493147880",
+            "web_url": "https://www.yammer.com/ensam.eu/users/1493147880",
+            "activated_at": "2020/04/15 07:06:36 +0000",
+            "auto_activated": true,
+            "stats": {
+                "following": 0,
+                "followers": 0,
+                "updates": 0
+            },
+            "email": "mireille.bof@ensam.eu",
+            "aad_guest": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1908298141851648",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1908298141851648",
+            "type": "thread",
+            "id": 1908298141851648,
+            "network_id": 82069,
+            "thread_starter_id": 1908298141851648,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1908298141851648,
+                "latest_reply_at": "2022/09/09 09:07:12 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1802607848505344",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1802607848505344",
+            "type": "thread",
+            "id": 1802607848505344,
+            "network_id": 82069,
+            "thread_starter_id": 1802607848505344,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1802607848505344,
+                "latest_reply_at": "2022/06/28 11:13:20 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1692235902795776",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1692235902795776",
+            "type": "thread",
+            "id": 1692235902795776,
+            "network_id": 82069,
+            "thread_starter_id": 1692235902795776,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": true,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": 1692235919630336,
+                "first_reply_at": "2022/04/13 07:48:40 +0000",
+                "latest_reply_id": 1692244466401280,
+                "latest_reply_at": "2022/04/13 07:57:10 +0000",
+                "updates": 3,
+                "shares": 0
+            },
+            "invited_user_ids": [
+                1652755941
+            ],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1550602093068288",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1550602093068288",
+            "type": "thread",
+            "id": 1550602093068288,
+            "network_id": 82069,
+            "thread_starter_id": 1550602093068288,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": true,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1550602093068288,
+                "latest_reply_at": "2022/01/05 14:48:06 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1497034723549184",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1497034723549184",
+            "type": "thread",
+            "id": 1497034723549184,
+            "network_id": 82069,
+            "thread_starter_id": 1497034723549184,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1497034723549184,
+                "latest_reply_at": "2021/11/29 15:53:42 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1466461582204928",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1466461582204928",
+            "type": "thread",
+            "id": 1466461582204928,
+            "network_id": 82069,
+            "thread_starter_id": 1466461582204928,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1466461582204928,
+                "latest_reply_at": "2021/11/08 13:42:01 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1254457794805760",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1254457794805760",
+            "type": "thread",
+            "id": 1254457794805760,
+            "network_id": 82069,
+            "thread_starter_id": 1254457794805760,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1254457794805760,
+                "latest_reply_at": "2021/06/15 07:35:11 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1218789062787072",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1218789062787072",
+            "type": "thread",
+            "id": 1218789062787072,
+            "network_id": 82069,
+            "thread_starter_id": 1218789062787072,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1218789062787072,
+                "latest_reply_at": "2021/05/21 17:01:29 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1186739775995904",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1186739775995904",
+            "type": "thread",
+            "id": 1186739775995904,
+            "network_id": 82069,
+            "thread_starter_id": 1186739775995904,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": 1186748454051840,
+                "first_reply_at": "2021/04/29 14:32:00 +0000",
+                "latest_reply_id": 1186826337689600,
+                "latest_reply_at": "2021/04/29 15:49:22 +0000",
+                "updates": 3,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1111151201533952",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1111151201533952",
+            "type": "thread",
+            "id": 1111151201533952,
+            "network_id": 82069,
+            "thread_starter_id": 1111151201533952,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 1111151201533952,
+                "latest_reply_at": "2021/03/08 10:52:52 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/1019946050961408",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/1019946050961408",
+            "type": "thread",
+            "id": 1019946050961408,
+            "network_id": 82069,
+            "thread_starter_id": 1019946050961408,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": true,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": 1020005632901120,
+                "first_reply_at": "2021/01/04 13:47:53 +0000",
+                "latest_reply_id": 1020005632901120,
+                "latest_reply_at": "2021/01/04 13:47:53 +0000",
+                "updates": 2,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/944880997515264",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/944880997515264",
+            "type": "thread",
+            "id": 944880997515264,
+            "network_id": 82069,
+            "thread_starter_id": 944880997515264,
+            "group_id": 21883920384,
+            "topics": [
+                {
+                    "type": "topic",
+                    "id": 60317523968,
+                    "id_str": "60317523968"
+                },
+                {
+                    "type": "topic",
+                    "id": 60317515776,
+                    "id_str": "60317515776"
+                }
+            ],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": true,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": 954547108405248,
+                "first_reply_at": "2020/11/20 10:00:41 +0000",
+                "latest_reply_id": 954547108405248,
+                "latest_reply_at": "2020/11/20 10:00:41 +0000",
+                "updates": 2,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/850712459845632",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/850712459845632",
+            "type": "thread",
+            "id": 850712459845632,
+            "network_id": 82069,
+            "thread_starter_id": 850712459845632,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": true,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 850712459845632,
+                "latest_reply_at": "2020/09/09 18:50:13 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/761922934489088",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/761922934489088",
+            "type": "thread",
+            "id": 761922934489088,
+            "network_id": 82069,
+            "thread_starter_id": 761922934489088,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 761922934489088,
+                "latest_reply_at": "2020/07/10 12:45:45 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/728796200878080",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/728796200878080",
+            "type": "thread",
+            "id": 728796200878080,
+            "network_id": 82069,
+            "thread_starter_id": 728796200878080,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 728796200878080,
+                "latest_reply_at": "2020/06/17 16:17:18 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/699271989968896",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/699271989968896",
+            "type": "thread",
+            "id": 699271989968896,
+            "network_id": 82069,
+            "thread_starter_id": 699271989968896,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": 699761792720896,
+                "first_reply_at": "2020/05/28 15:34:13 +0000",
+                "latest_reply_id": 718208661135360,
+                "latest_reply_at": "2020/06/10 08:59:32 +0000",
+                "updates": 6,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/685056148234240",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/685056148234240",
+            "type": "thread",
+            "id": 685056148234240,
+            "network_id": 82069,
+            "thread_starter_id": 685056148234240,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": 687727416745984,
+                "first_reply_at": "2020/05/20 08:19:08 +0000",
+                "latest_reply_id": 687735693139968,
+                "latest_reply_at": "2020/05/20 08:27:21 +0000",
+                "updates": 3,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/657299708731392",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/657299708731392",
+            "type": "thread",
+            "id": 657299708731392,
+            "network_id": 82069,
+            "thread_starter_id": 657299708731392,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": true,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 657299708731392,
+                "latest_reply_at": "2020/04/29 08:31:55 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/654764505866240",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/654764505866240",
+            "type": "thread",
+            "id": 654764505866240,
+            "network_id": 82069,
+            "thread_starter_id": 654764505866240,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": null,
+                "first_reply_at": null,
+                "latest_reply_id": 654764505866240,
+                "latest_reply_at": "2020/04/27 14:33:25 +0000",
+                "updates": 1,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "url": "https://www.yammer.com/api/v1/messages/in_thread/635922467184640",
+            "web_url": "https://www.yammer.com/ensam.eu/threads/635922467184640",
+            "type": "thread",
+            "id": 635922467184640,
+            "network_id": 82069,
+            "thread_starter_id": 635922467184640,
+            "group_id": 21883920384,
+            "topics": [],
+            "privacy": "private",
+            "announcement": false,
+            "direct_message": false,
+            "has_attachments": false,
+            "reply_disabled": false,
+            "stats": {
+                "first_reply_id": 636960313942016,
+                "first_reply_at": "2020/04/15 07:46:33 +0000",
+                "latest_reply_id": 636960313942016,
+                "latest_reply_at": "2020/04/15 07:46:33 +0000",
+                "updates": 2,
+                "shares": 0
+            },
+            "invited_user_ids": [],
+            "read_only": false
+        },
+        {
+            "type": "group",
+            "id": 21883920384,
+            "email": "dsi+ensam.eu@yammer.com",
+            "full_name": "DSI",
+            "network_id": 82069,
+            "name": "dsi",
+            "description": "Echanges et partages pour les personnels de la DSI.",
+            "privacy": "private",
+            "url": "https://www.yammer.com/api/v1/groups/21883920384",
+            "web_url": "https://www.yammer.com/ensam.eu/#/threads/inGroup?type=in_group\u0026feedId=21883920384",
+            "mugshot_url": "https://mugshot0.assets-yammer.com/mugshot/images/group_profile.png?P1=1664962776\u0026P2=104\u0026P3=1\u0026P4=iIrqhMWqrUep5ZIZt1flKd3D6YB6KKu13xWD9NorWcTuwCJX4ZbiAkepp3CaDo2jR35kpXRsTwMxWOzBDd2tQfxmJteItgZuiLQBVybxkyRoW0kDYEnvI69rXYn45arpqF3OGAhrFS7LQd31odt5nlc9EjvGljNWN98jCJPv9YoypnDCMTKwEDGVgNF5SdVI_J6VvHGi0f0Z1LxQwpNjksQj221YHXxcfjsmjrVgVDpDhLNh1jau2JcP9YcLu65_RTGdgY7qxY52QxzUd-vZ1oHv5QmIf7-wSlmzMXqejPOiF6Rh_OoBaWmAENpyCMviH_fNxvRVnMjQHfw9b4xWGw\u0026size=48x48",
+            "mugshot_redirect_url": "https://www.yammer.com/mugshot/images/redirect/48x48/group_profile.png",
+            "mugshot_url_template": "https://mugshot0.assets-yammer.com/mugshot/images/group_profile.png?P1=1664962776\u0026P2=104\u0026P3=1\u0026P4=iIrqhMWqrUep5ZIZt1flKd3D6YB6KKu13xWD9NorWcTuwCJX4ZbiAkepp3CaDo2jR35kpXRsTwMxWOzBDd2tQfxmJteItgZuiLQBVybxkyRoW0kDYEnvI69rXYn45arpqF3OGAhrFS7LQd31odt5nlc9EjvGljNWN98jCJPv9YoypnDCMTKwEDGVgNF5SdVI_J6VvHGi0f0Z1LxQwpNjksQj221YHXxcfjsmjrVgVDpDhLNh1jau2JcP9YcLu65_RTGdgY7qxY52QxzUd-vZ1oHv5QmIf7-wSlmzMXqejPOiF6Rh_OoBaWmAENpyCMviH_fNxvRVnMjQHfw9b4xWGw\u0026size={width}x{height}",
+            "mugshot_redirect_url_template": "https://www.yammer.com/mugshot/images/redirect/{width}x{height}/group_profile.png",
+            "mugshot_id": "",
+            "show_in_directory": "true",
+            "created_at": "2020/04/09 09:34:24 +0000",
+            "members": 26,
+            "aad_guests": 0,
+            "color": "#0e4f7a",
+            "external": false,
+            "moderated": true,
+            "header_image_url": "https://mugshot0.assets-yammer.com/mugshot/images/group-header-megaphone.png?P1=1664963583\u0026P2=104\u0026P3=1\u0026P4=NPscPfqgebRQlTj5zfUxcCepreaC1_4UJjoSucjmnoz4TLD3r4A9Ps67ZpEDMJnWaYoyM9O8ckUcKeDnWmCVBiyI10tsQMfqefGiGCv7g2KMNZ7lfzvd6gVfXf52ZoP8cIoJu5B3Iobl0CyFmrR3NvsKLfII9tmJgKAMTzs7FOja0XAg5MW0fgrUCjx_x1GdBQHrKFnYVtKLkoHnV1ppPf5s8rBKsc0po_I_uhMwMgaPj9Rd32YTN1oHG6V7HnJ_zR5oWrQM7_Eil_6OVU4VDP6rl5_8Y_AKRULGNQ42kNa69GdppWaZr74npy1CB6SqPMwm5iIyELWzMzvKwv3mVw",
+            "category": "unclassified",
+            "default_thread_starter_type": "normal",
+            "restricted_posting": false,
+            "company_group": false
+        },
+        {
+            "type": "topic",
+            "id": 60317523968,
+            "id_str": "60317523968",
+            "creator_id": 1652755905,
+            "description": null,
+            "network_id": 82069,
+            "name": "Chatbonheur",
+            "normalized_name": "chatbonheur",
+            "permalink": "chatbonheur",
+            "url": "https://www.yammer.com/api/v1/topics/60317523968",
+            "web_url": "https://www.yammer.com/ensam.eu/topics/60317523968",
+            "followers_count": 0
+        },
+        {
+            "type": "topic",
+            "id": 60317515776,
+            "id_str": "60317515776",
+            "creator_id": 1652755905,
+            "description": null,
+            "network_id": 82069,
+            "name": "Kiwiethecat",
+            "normalized_name": "kiwiethecat",
+            "permalink": "kiwiethecat",
+            "url": "https://www.yammer.com/api/v1/topics/60317515776",
+            "web_url": "https://www.yammer.com/ensam.eu/topics/60317515776",
+            "followers_count": 0
+        }
+    ],
+    "external_references": [],
+    "meta": {
+        "older_available": true,
+        "requested_poll_interval": 60,
+        "realtime": {
+            "uri": "https://1-82069-1649005135-006.rt.yammer.com/cometd/",
+            "authentication_token": "CyG7YSSnS6cuPGpqD3euHzSUYt+DL9BYd1PIWJupRBN4nKtWKi1OLVKyMjQzsTQwMDU0NtVRykstKc8vylaysjAyMLPUUUqtKMgsqgSpMTM3M7WwMDGuBQC1iQ9W",
+            "channel_id": "NTo4MjA2OToyMTg4MzkyMDM4NA"
+        },
+        "last_seen_message_id": null,
+        "current_user_id": 1649005135,
+        "followed_references": [
+            {
+                "type": "open_graph_object",
+                "id": 360855705460736
+            }
+        ],
+        "ymodules": [],
+        "newest_message_details": {
+            "id": 1908298141851648,
+            "thread_id": 1908298141851648,
+            "thread_starter": true
+        },
+        "feed_name": "DSI",
+        "feed_desc": "Messages in group DSI",
+        "direct_from_body": false
+    }
+}

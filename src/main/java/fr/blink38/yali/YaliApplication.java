@@ -6,10 +6,12 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Profile;
 
 import fr.blink38.yali.service.LikeService;
 
 @SpringBootApplication
+@Profile("!test")
 public class YaliApplication
     implements CommandLineRunner {
 

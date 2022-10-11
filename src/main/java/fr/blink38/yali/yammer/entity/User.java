@@ -8,7 +8,6 @@ public class User {
     String type;
     String id;
     String job_title;
-    String summary;
     String full_name;
 
 }
