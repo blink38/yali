@@ -2,7 +2,6 @@ package fr.blink38.yali.yammer.service.yammer;
 
 import java.net.URI;
 import java.nio.charset.StandardCharsets;
-import java.util.List;
 
 import javax.annotation.PostConstruct;
 
@@ -17,13 +16,7 @@ import org.springframework.web.reactive.function.client.WebClient.RequestHeaders
 import org.springframework.web.reactive.function.client.WebClient.ResponseSpec;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
 
-import lombok.Getter;
-import lombok.Setter;
-
 public abstract class YammerWebClient {
-
-    @Getter @Setter
-    private String baseUrl = "https://www.yammer.com/api/v1";
 
     protected WebClient client;
 

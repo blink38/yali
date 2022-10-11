@@ -1,0 +1,29 @@
+[
+    {
+        "type": "group",
+        "id": 1,
+        "email": "group1@email.com",
+        "full_name": "Group ONE",
+        "name": "groupeone",
+        "description": "Description Group One",
+        "privacy": "private"
+    },
+    {
+        "type": "group",
+        "id": 2,
+        "email": "group2@email.com",
+        "full_name": "Group TWO",
+        "name": "groupetwo",
+        "description": "Description Group Two",
+        "privacy": "private"
+    },
+    {
+        "type": "group",
+        "id": 3,
+        "email": "group3@email.com",
+        "full_name": "Group THREE",
+        "name": "groupethree",
+        "description": "Description Group Three",
+        "privacy": "private"
+    }
+]

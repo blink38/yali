@@ -22,7 +22,6 @@ import fr.blink38.yali.yammer.service.CurrentUserService;
 import okhttp3.mockwebserver.MockResponse;
 import okhttp3.mockwebserver.MockWebServer;
 
-@RunWith(SpringRunner.class)
 @SpringBootTest(classes = { CurrentUserService.class })
 @ActiveProfiles("test")
 public class CurrentUserServiceTest {
@@ -31,6 +30,8 @@ public class CurrentUserServiceTest {
     CurrentUserService service;
 
     public static MockWebServer mockBackEnd;
+
+    URLService uri;
 
     @Value("classpath:json/currentUserService.json")
     Resource json;
@@ -45,7 +46,6 @@ public class CurrentUserServiceTest {
     void initialize() {
         String baseUrl = String.format("http://localhost:%s",
                 mockBackEnd.getPort());
-        service.setBaseUrl(baseUrl);
 
         uri = URLService.instance().setUrl(baseUrl);
     }
@@ -54,8 +54,6 @@ public class CurrentUserServiceTest {
     static void tearDown() throws IOException {
         mockBackEnd.shutdown();
     }
-
-    URLService uri;
 
     @Test
     public void whenRequest_thenUserIsSuccess() throws IOException {

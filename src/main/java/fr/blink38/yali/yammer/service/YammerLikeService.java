@@ -7,12 +7,14 @@ import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
 
 import fr.blink38.yali.entity.AccessToken;
 import fr.blink38.yali.entity.Community;
 import fr.blink38.yali.service.LikeService;
+import fr.blink38.yali.service.URLService;
 import fr.blink38.yali.yammer.entity.Group;
 import fr.blink38.yali.yammer.entity.Message;
 import fr.blink38.yali.yammer.entity.MessageLikedBy;
@@ -23,6 +25,9 @@ import lombok.extern.log4j.Log4j2;
 @Service
 @Log4j2
 public class YammerLikeService implements LikeService {
+
+    @Value("${yammer.base-url")
+    String baseUrl;
 
     @Autowired
     CurrentUserService currentUser;
@@ -45,7 +50,7 @@ public class YammerLikeService implements LikeService {
         User user;
 
         try {
-            user = currentUser.query(Collections.emptyList(), Collections.emptyMap(),
+            user = currentUser.query(URLService.instance().setUrl(this.baseUrl),
                     token.getToken());
             log.info("USER found : " + user.getFull_name());
 
@@ -64,25 +69,32 @@ public class YammerLikeService implements LikeService {
             }
 
             try {
-                MessagesInGroup messages = messageService.query(List.of(group.getId()), Collections.emptyMap(),
+                MessagesInGroup messages = messageService.query(URLService.instance().setUrl(this.baseUrl)
+                        .setPathParameter(List.of(group.getId())),
                         token.getToken());
 
                 for (Message message : messages.getMessages()) {
 
-                    MessageLikedBy liked = likedByService.query(List.of(message.getId()), Collections.emptyMap(), token.getToken());
+                    Collection<User> users = likedByService.page("users", URLService.instance().setUrl(this.baseUrl)
+                            .setPathParameter(List.of(message.getId())),
+                            token.getToken());
 
-                    log.info("liked by count " + liked.getTotal_count());
+                    log.info("liked by count " + users.size());
 
                     try {
-                    log.info(String.format("MESSAGE : %s - %s", message.getId(),
-                            StringUtils.substring(StringUtils.split(StringUtils.defaultIfBlank(message.getBody().getPlain()," "), "\n")[0], 0,
-                                    60)));
-                    } catch (Exception e){
+                        log.info(String.format("MESSAGE : %s - %s", message.getId(),
+                                StringUtils.substring(
+                                        StringUtils.split(StringUtils.defaultIfBlank(message.getBody().getPlain(), " "),
+                                                "\n")[0],
+                                        0,
+                                        60)));
+                    } catch (Exception e) {
                         log.error(e);
                     }
 
-                    likeService.post(Collections.emptyList(),
-                            Map.of("message_id", message.getId()), token.getToken());
+                    likeService.post(
+                            URLService.instance().setUrl(this.baseUrl).addParameter("message_id", message.getId()),
+                            token.getToken());
 
                     log.info(String.format("LIKE : %s - %s ", message.getId(), message.getUrl()));
                 }
@@ -95,10 +107,9 @@ public class YammerLikeService implements LikeService {
         return 0;
     }
 
-
     public Collection<Group> getGroupsForUser(User user, AccessToken token) {
 
-        Collection<Group> groups = groupService.queryAll(List.of(user.getId()), Collections.emptyMap(),
+        Collection<Group> groups = groupService.queryAll(URLService.instance().setPathParameter(List.of(user.getId())),
                 token.getToken());
 
         groups.stream().forEach(group -> {

@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Profile;
 
 import fr.blink38.yali.service.LikeService;
+import fr.blink38.yali.yammer.YammerProps;
 
 @SpringBootApplication
 @Profile("!test")
@@ -19,7 +20,7 @@ public class YaliApplication
   LikeService likeService;
 
   @Autowired
-  private ApplicationProps applicationProps;
+  private YammerProps yammerProps;
 
   private static Logger LOG = LoggerFactory
       .getLogger(YaliApplication.class);
@@ -31,10 +32,10 @@ public class YaliApplication
   @Override
   public void run(String... args) {
 
-    LOG.info("Found " + applicationProps.getAccessTokens().size() + " access token");
+    LOG.info("Found " + yammerProps.getAccessTokens().size() + " access token");
 
-    applicationProps.getAccessTokens().stream().forEach(token -> {
-      likeService.like(applicationProps.getCommunities(),token);
+    yammerProps.getAccessTokens().stream().forEach(token -> {
+      likeService.like(yammerProps.getCommunities(), token);
     });
 
   }

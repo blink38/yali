@@ -24,7 +24,6 @@ import fr.blink38.yali.yammer.service.MessageLikedByService;
 import okhttp3.mockwebserver.MockResponse;
 import okhttp3.mockwebserver.MockWebServer;
 
-@RunWith(SpringRunner.class)
 @SpringBootTest(classes = { MessageLikedByService.class })
 @ActiveProfiles("test")
 public class MessageLikedByServiceTest {
@@ -43,6 +42,8 @@ public class MessageLikedByServiceTest {
     @Value("classpath:json/messageLikeByService_part2.json")
     Resource json2;
 
+    URLService uri;
+
     @BeforeAll
     static void setUp() throws IOException {
         mockBackEnd = new MockWebServer();
@@ -53,7 +54,6 @@ public class MessageLikedByServiceTest {
     void initialize() {
         String baseUrl = String.format("http://localhost:%s",
                 mockBackEnd.getPort());
-        service.setBaseUrl(baseUrl);
 
         uri = URLService.instance().setUrl(baseUrl);
     }
@@ -62,8 +62,6 @@ public class MessageLikedByServiceTest {
     static void tearDown() throws IOException {
         mockBackEnd.shutdown();
     }
-
-    URLService uri;
 
     @Test
     public void whenOneResponseOnly_thenListIsFullfilled() throws IOException {
