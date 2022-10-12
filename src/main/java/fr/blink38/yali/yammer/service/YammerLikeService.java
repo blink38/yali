@@ -1,9 +1,7 @@
 package fr.blink38.yali.yammer.service;
 
 import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
-import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,7 +15,6 @@ import fr.blink38.yali.service.LikeService;
 import fr.blink38.yali.service.URLService;
 import fr.blink38.yali.yammer.entity.Group;
 import fr.blink38.yali.yammer.entity.Message;
-import fr.blink38.yali.yammer.entity.MessageLikedBy;
 import fr.blink38.yali.yammer.entity.MessagesInGroup;
 import fr.blink38.yali.yammer.entity.User;
 import lombok.extern.log4j.Log4j2;
@@ -26,7 +23,7 @@ import lombok.extern.log4j.Log4j2;
 @Log4j2
 public class YammerLikeService implements LikeService {
 
-    @Value("${yammer.base-url")
+    @Value("${yammer.base-url:}")
     String baseUrl;
 
     @Autowired
@@ -48,9 +45,10 @@ public class YammerLikeService implements LikeService {
     public int like(List<Community> communities, AccessToken token) {
 
         User user;
+        int likeCount = 0;
 
         try {
-            user = currentUser.query(URLService.instance().setUrl(this.baseUrl),
+            user = currentUser.query(urlService(),
                     token.getToken());
             log.info("USER found : " + user.getFull_name());
 
@@ -69,17 +67,21 @@ public class YammerLikeService implements LikeService {
             }
 
             try {
-                MessagesInGroup messages = messageService.query(URLService.instance().setUrl(this.baseUrl)
-                        .setPathParameter(List.of(group.getId())),
+                MessagesInGroup messages = messageService.query(urlService()
+                        .setPathParameter(List.of(group.getId()))
+                        .addParameter("threaded", "true"),
                         token.getToken());
 
                 for (Message message : messages.getMessages()) {
 
-                    Collection<User> users = likedByService.page("users", URLService.instance().setUrl(this.baseUrl)
+                    Collection<User> users = likedByService.page("users", urlService()
                             .setPathParameter(List.of(message.getId())),
                             token.getToken());
 
-                    log.info("liked by count " + users.size());
+                    if (users.stream().anyMatch(usr -> StringUtils.equals(usr.getId(), user.getId()))) {
+                        log.info(String.format("message %s already liked. skip", message.getId()));
+                        continue;
+                    }
 
                     try {
                         log.info(String.format("MESSAGE : %s - %s", message.getId(),
@@ -96,7 +98,8 @@ public class YammerLikeService implements LikeService {
                             URLService.instance().setUrl(this.baseUrl).addParameter("message_id", message.getId()),
                             token.getToken());
 
-                    log.info(String.format("LIKE : %s - %s ", message.getId(), message.getUrl()));
+                    likeCount++;
+                    log.info(String.format("LIKE : %s - %s ", message.getId(), message.getWeb_url()));
                 }
 
             } catch (WebClientResponseException ex) {
@@ -104,12 +107,12 @@ public class YammerLikeService implements LikeService {
             }
 
         }
-        return 0;
+        return likeCount;
     }
 
     public Collection<Group> getGroupsForUser(User user, AccessToken token) {
 
-        Collection<Group> groups = groupService.queryAll(URLService.instance().setPathParameter(List.of(user.getId())),
+        Collection<Group> groups = groupService.queryAll(urlService().setPathParameter(List.of(user.getId())),
                 token.getToken());
 
         groups.stream().forEach(group -> {
@@ -117,6 +120,10 @@ public class YammerLikeService implements LikeService {
         });
 
         return groups;
+    }
+
+    private URLService urlService() {
+        return URLService.instance().setUrl(this.baseUrl);
     }
 
 }

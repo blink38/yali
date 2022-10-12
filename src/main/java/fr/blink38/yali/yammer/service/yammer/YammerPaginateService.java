@@ -50,6 +50,7 @@ public abstract class YammerPaginateService<T, V> extends YammerWebClient implem
                 accessToken);
     }
 
+    @SuppressWarnings("unchecked")
     private Collection<V> page(Class<T> entity, String collectionName, HttpMethod method, URLService uri,
             String accessToken) throws WebClientResponseException {
 

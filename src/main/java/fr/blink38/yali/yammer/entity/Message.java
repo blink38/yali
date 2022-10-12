@@ -14,6 +14,7 @@ public class Message {
     // Like liked_by;
 
     String url;
+    String web_url;
     
     @Data
     public class Body {

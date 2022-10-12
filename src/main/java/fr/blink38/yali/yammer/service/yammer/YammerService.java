@@ -30,6 +30,9 @@ public abstract class YammerService<T> extends YammerWebClient implements RestSe
 
     @Override
     public Collection<T> queryAll(URLService uri, String accessToken) throws WebClientResponseException {
+
+        uri.setPath(this.getUri());
+
         return this.queryAll(typeParameterClass, uri.build(), accessToken);
     }
 
@@ -47,11 +50,17 @@ public abstract class YammerService<T> extends YammerWebClient implements RestSe
 
     @Override
     public T query(URLService uri, String accessToken) throws WebClientResponseException {
+
+        uri.setPath(this.getUri());
+
         return this.query(typeParameterClass, HttpMethod.GET, uri.build(), accessToken);
     }
 
     @Override
     public T post(URLService uri, String accessToken) throws WebClientResponseException {
+
+        uri.setPath(this.getUri());
+
         return this.query(typeParameterClass, HttpMethod.POST, uri.build(), accessToken);
     }
 
